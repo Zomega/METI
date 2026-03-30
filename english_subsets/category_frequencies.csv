@@ -1,0 +1,80 @@
+category,count
+People,549
+Business,502
+Visual,498
+Nature,447
+Time,355
+Mathematics,346
+Education,305
+Direction,289
+Political,253
+Body Parts,214
+Household,129
+War,124
+Transport,116
+Materials,111
+Food/Drink,103
+Industry,81
+Agriculture,64
+Tools,64
+Buildings,61
+Animals,53
+Clothes,48
+Color,41
+Something went wrong. Try again.,22
+Not Categorized,10
+None of the categories apply,7
+None of the above,7
+Social,2
+None of these categories apply,2
+Medical,2
+I do not have enough information to answer the query. Please provide the specific word or text from the spreadsheet that needs to be categorized.,2
+I do not have enough information to answer the query. The provided spreadsheet cell is empty. Please provide a word or text to categorize.,1
+"I do not have enough information to answer the query. The word ""that"" is a pronoun or determiner and does not fit into the specific categories provided (Color, Visual, Direction, Time, Animals, Food/Drink, Household, Clothes, Tools, Buildings, People, Body Parts, Materials, Transport, Business, Industry, Education, Political, War, Agriculture, Nature, Mathematics). Please provide more context or an expanded category list.",1
+"I do not have enough information to answer the query. The word ""enter"" does not fit into any of the provided categories (Color, Visual, Direction, Time, Animals, Food/Drink, Household, Clothes, Tools, Buildings, People, Body Parts, Materials, Transport, Business, Industry, Education, Political, War, Agriculture, Nature, Mathematics). Please provide a different set of categories or a different word to categorize.",1
+"I do not have enough information to answer the query. The word ""enjoy"" does not fit into any of the provided categories (Color, Visual, Direction, Time, Animals, Food/Drink, Household, Clothes, Tools, Buildings, People, Body Parts, Materials, Transport, Business, Industry, Education, Political, War, Agriculture, Nature, Mathematics). Please provide a different set of categories or a different word to categorize.",1
+"I do not have enough information to answer the query. The word ""though"" is a conjunction and adverb that does not fit into any of the provided categories (Color, Visual, Direction, Time, Animals, Food/Drink, Household, Clothes, Tools, Buildings, People, Body Parts, Materials, Transport, Business, Industry, Education, Political, War, Agriculture, Nature, Mathematics). Please provide a different set of categories or a different word.",1
+Science,1
+"I do not have enough information to categorize ""sure"" into the provided categories. The word ""sure"" expresses a state of certainty or a quality that does not clearly fit into specific categories like Color, Animals, Food/Drink, or the others listed. Please provide a category for general qualities or human states to help me categorize this word better.",1
+I'm still learning and can't help with that. Do you need help with anything else?,1
+"I do not have enough information to answer the query. The value provided (""none"") does not contain enough context to be categorized into the specific list of categories provided. Please provide a descriptive word or phrase to categorize.",1
+"I do not have enough information to answer the query. The word ""can't"" does not fit into any of the provided categories (Color, Visual, Direction, Time, Animals, Food/Drink, Household, Clothes, Tools, Buildings, People, Body Parts, Materials, Transport, Business, Industry, Education, Political, War, Agriculture, Nature, or Mathematics). Please provide a list of categories that includes parts of speech or abstract concepts.",1
+"I do not have enough information to answer the query. The word ""doesn't"" does not clearly fit into any of the provided categories (Color, Visual, Direction, Time, Animals, Food/Drink, Household, Clothes, Tools, Buildings, People, Body Parts, Materials, Transport, Business, Industry, Education, Political, War, Agriculture, Nature, Mathematics). Please provide a word that relates to one of these categories.",1
+"I do not have enough information to answer the query. The word ""for"" is a preposition and does not clearly fit into any of the provided categories like Color, Animals, or Nature. Please provide a different word or more context.",1
+"I do not have enough information to answer the query. The word ""ignore"" does not clearly fit into any of the provided categories: Color, Visual, Direction, Time, Animals, Food/Drink, Household, Clothes, Tools, Buildings, People, Body Parts, Materials, Transport, Business, Industry, Education, Political, War, Agriculture, Nature, or Mathematics.",1
+Music,1
+I do not have enough information to answer the query. The spreadsheet cell provided is empty. Please provide a word or phrase to categorize.,1
+"I do not have enough information to answer the query. The term ""aren't"" is a contraction of ""are not"" and does not clearly fit into any of the provided categories (Color, Visual, Direction, Time, Animals, Food/Drink, Household, Clothes, Tools, Buildings, People, Body Parts, Materials, Transport, Business, Industry, Education, Political, War, Agriculture, Nature, Mathematics). Please provide a different word or specify a category for general grammar/abstract terms.",1
+Legal,1
+"I do not have enough information to answer the query. The word provided is a profanity and does not fit into any of the specified categories (Color, Visual, Direction, Time, Animals, Food/Drink, Household, Clothes, Tools, Buildings, People, Body Parts, Materials, Transport, Business, Industry, Education, Political, War, Agriculture, Nature, Mathematics). Please provide a different word to categorize.",1
+I do not have enough information to answer the query. The word instead does not fit into any of the provided categories. Please provide a different word or a broader list of categories.,1
+"I do not have enough information to answer the query. The word ""which"" does not fit into any of the provided categories (Color, Visual, Direction, Time, Animals, Food/Drink, Household, Clothes, Tools, Buildings, People, Body Parts, Materials, Transport, Business, Industry, Education, Political, War, Agriculture, Nature, or Mathematics).",1
+"I do not have enough information to answer the query. The word ""it's"" does not clearly fit into any of the provided categories. Please provide a different word or more context.",1
+"I do not have enough information to categorize the word ""easily"" as it does not fit into any of the provided categories: Color, Visual, Direction, Time, Animals, Food/Drink, Household, Clothes, Tools, Buildings, People, Body Parts, Materials, Transport, Business, Industry, Education, Political, War, Agriculture, Nature, or Mathematics.",1
+"I do not have enough information to categorize the word ""has"" into the provided categories, as it is a general verb that does not specifically pertain to any of the listed topics such as Animals, Nature, or Mathematics.",1
+"I do not have enough information to categorize ""actually"" into the provided categories. This word is an adverb used for emphasis or to denote reality and does not fit into concrete categories such as Color, Animals, Food/Drink, or the others listed.",1
+"I do not have enough information to answer the query. The word though does not fit into any of the provided categories: Color, Visual, Direction, Time, Animals, Food/Drink, Household, Clothes, Tools, Buildings, People, Body Parts, Materials, Transport, Business, Industry, Education, Political, War, Agriculture, Nature, or Mathematics.",1
+"I do not have enough information to categorize the word ""was"" into the provided categories. It is a verb indicating a state of being in the past and does not clearly fit into specific semantic groups such as Color, Animals, or Tools.",1
+"I do not have enough information to categorize the word ""not"" into the provided categories. None of the categories (Color, Visual, Direction, Time, Animals, Food/Drink, Household, Clothes, Tools, Buildings, People, Body Parts, Materials, Transport, Business, Industry, Education, Political, War, Agriculture, Nature, or Mathematics) are a suitable match for a logical negation or function word like ""not.""",1
+Not Applicable,1
+Noneof the Above,1
+Other,1
+Physical Movement,1
+Religion,1
+I do not have enough information to answer the query. The word what is a pronoun/adverb and does not fit into any of the provided categories.,1
+"The word ""should"" does not fit into any of the provided categories (Color, Visual, Direction, Time, Animals, Food/Drink, Household, Clothes, Tools, Buildings, People, Body Parts, Materials, Transport, Business, Industry, Education, Political, War, Agriculture, Nature, or Mathematics) as it is a modal verb rather than a noun or a category-specific descriptor.",1
+"The word meant is the past tense of mean. While mean can refer to an average in Mathematics, as a verb signifying intention or definition, it does not clearly fit into any of the provided categories. The closest thematic category for human intention or linguistic meaning would be People or Education, but neither is a direct fit.",1
+"I do not have enough information to answer the query. The word ""enough"" does not fit into any of the provided categories (Color, Visual, Direction, Time, Animals, Food/Drink, Household, Clothes, Tools, Buildings, People, Body Parts, Materials, Transport, Business, Industry, Education, Political, War, Agriculture, Nature, Mathematics). Please provide a more relevant list of categories or a different word.",1
+"I do not have enough information to answer the query. The word ""enjoy"" does not fit into any of the provided categories (Color, Visual, Direction, Time, Animals, Food/Drink, Household, Clothes, Tools, Buildings, People, Body Parts, Materials, Transport, Business, Industry, Education, Political, War, Agriculture, Nature, Mathematics). Please provide a more relevant list of categories or a different word.",1
+"I do not have enough information to answer the query. The word ""however"" does not fit into any of the provided categories. Please provide a different set of categories or a different word to categorize.",1
+"I do not have enough information to answer the query. The word ""if"" is a conjunction and does not fit into any of the provided categories.",1
+"I do not have enough information to answer the query. The word ""what"" does not fit into any of the provided categories (Color, Visual, Direction, Time, Animals, Food/Drink, Household, Clothes, Tools, Buildings, People, Body Parts, Materials, Transport, Business, Industry, Education, Political, War, Agriculture, Nature, Mathematics). Please provide a list of categories that includes grammatical or interrogative terms.",1
+"I do not have enough information to categorize the word ""an"" into the provided categories. It is a grammatical article (determiner) and does not fit into the specific thematic categories listed, such as Agriculture, Nature, or People. To help me categorize better, please provide words that belong to one of the specified themes.",1
+Military,1
+"I do not have enough information to answer the query. The cell A795 appears to be empty, so there is no text to categorize. Please provide a cell with content to be classified.",1
+"The word instead does not fit into any of the provided categories. It is a logical adverb used to suggest an alternative or substitute, whereas the categories provided are specific topical or thematic groups (e.g., Animals, Agriculture, Business).",1
+"I do not have enough information to categorize ""so"" into the provided categories. The word ""so"" is a conjunction or adverb that does not fit into specific classifications like Color, Animals, or Agriculture. Please provide a broader set of categories or a different word.",1
+I do not have enough information to answer the query. The word these does not clearly fit into any of the provided categories. Please provide a different word or more context.,1
+"I do not have enough information to answer the query. The word ""unless"" does not fit into any of the provided categories (Color, Visual, Direction, Time, Animals, Food/Drink, Household, Clothes, Tools, Buildings, People, Body Parts, Materials, Transport, Business, Industry, Education, Political, War, Agriculture, Nature, Mathematics). Please provide a different set of categories or a different word to categorize.",1
+"I do not have enough information to answer the query. The word ""which"" does not clearly fit into any of the provided categories. Please provide more context or a different set of categories.",1
+"I do not have enough information to answer the query. The word ""with"" is a preposition that does not clearly fit into any of the provided categories (Color, Visual, Direction, Time, Animals, Food/Drink, Household, Clothes, Tools, Buildings, People, Body Parts, Materials, Transport, Business, Industry, Education, Political, War, Agriculture, Nature, Mathematics). Please provide a word that fits one of these specific categories.",1

@@ -1,0 +1,2235 @@
+word,category,sources
+Congress,Political,voa_special_english
+FALSE,Mathematics,"globish, voa_special_english"
+God,People,upgoer5
+I,People,"globish, ogdens_basic_english, upgoer5, voa_special_english"
+I'd,People,upgoer5
+I'll,People,upgoer5
+I'm,People,upgoer5
+I've,People,upgoer5
+Internet,Business,voa_special_english
+Mr.,People,upgoer5
+Mrs.,People,upgoer5
+Senate,Political,voa_special_english
+TRUE,Mathematics,"globish, upgoer5, voa_special_english"
+Web site,Business,voa_special_english
+a,Nature,"globish, ogdens_basic_english, upgoer5, voa_special_english"
+able,People,"globish, ogdens_basic_english, upgoer5, voa_special_english"
+about,Time,"globish, ogdens_basic_english, upgoer5, voa_special_english"
+above,Direction,"globish, upgoer5, voa_special_english"
+abuse,People,voa_special_english
+accept,Business,"globish, upgoer5, voa_special_english"
+accident,Transport,voa_special_english
+according (to),Direction,globish
+account,Business,"globish, ogdens_basic_english"
+accuse,Political,"globish, voa_special_english"
+achieve,Business,globish
+acid,Materials,ogdens_basic_english
+across,Direction,"globish, ogdens_basic_english, upgoer5, voa_special_english"
+act,Political,"globish, ogdens_basic_english, upgoer5, voa_special_english"
+activist,Political,voa_special_english
+actor,People,voa_special_english
+adapt,Nature,globish
+add,Mathematics,"globish, upgoer5, voa_special_english"
+addition,Mathematics,ogdens_basic_english
+adjustment,Business,ogdens_basic_english
+administration,Political,voa_special_english
+admit,Education,"globish, upgoer5, voa_special_english"
+adult,People,"globish, voa_special_english"
+advertise,Business,voa_special_english
+advertisement,Business,"globish, ogdens_basic_english"
+advise,Business,"globish, voa_special_english"
+affect,Business,"globish, voa_special_english"
+afraid,People,"globish, upgoer5, voa_special_english"
+after,Time,"globish, ogdens_basic_english, upgoer5, voa_special_english"
+afternoon,Time,upgoer5
+again,Time,"globish, ogdens_basic_english, upgoer5, voa_special_english"
+against,Direction,"globish, ogdens_basic_english, upgoer5, voa_special_english"
+age,Time,"globish, upgoer5, voa_special_english"
+agency,Business,"globish, voa_special_english"
+aggression,War,voa_special_english
+ago,Time,"globish, upgoer5, voa_special_english"
+agree,Political,"globish, upgoer5, voa_special_english"
+agreement,Business,ogdens_basic_english
+agriculture,Agriculture,voa_special_english
+ah,Nature,upgoer5
+ahead,Direction,"globish, upgoer5"
+aid,Political,"globish, voa_special_english"
+aim,Business,"globish, voa_special_english"
+air,Nature,"globish, ogdens_basic_english, upgoer5, voa_special_english"
+air force,War,voa_special_english
+airplane,Transport,voa_special_english
+airport,Transport,voa_special_english
+album,Business,voa_special_english
+alcohol,Food/Drink,voa_special_english
+alive,Nature,"globish, voa_special_english"
+all,Mathematics,"globish, ogdens_basic_english, upgoer5, voa_special_english"
+allow,Business,"globish, upgoer5"
+ally,People,"globish, voa_special_english"
+almost,Mathematics,"globish, ogdens_basic_english, upgoer5, voa_special_english"
+alone,People,"globish, upgoer5, voa_special_english"
+along,Direction,"globish, upgoer5, voa_special_english"
+already,Time,"globish, upgoer5, voa_special_english"
+also,Mathematics,"globish, upgoer5"
+although,Mathematics,"globish, upgoer5"
+always,Time,"globish, upgoer5, voa_special_english"
+am,Time,upgoer5
+amaze,Visual,upgoer5
+ambassador,Political,voa_special_english
+amend,Political,voa_special_english
+ammunition,War,voa_special_english
+among,Mathematics,"globish, ogdens_basic_english, voa_special_english"
+amount,Mathematics,"globish, ogdens_basic_english, voa_special_english"
+amusement,Business,ogdens_basic_english
+an,Nature,upgoer5
+anarchy,Political,voa_special_english
+ancestor,People,voa_special_english
+ancient,Time,voa_special_english
+and,Mathematics,"globish, ogdens_basic_english, voa_special_english"
+anger,People,"globish, upgoer5, voa_special_english"
+angle,Mathematics,"globish, ogdens_basic_english"
+angry,People,"ogdens_basic_english, upgoer5"
+animal,Animals,"ogdens_basic_english, upgoer5, voa_special_english"
+anniversary,Time,voa_special_english
+announce,Business,"globish, voa_special_english"
+annoy,People,upgoer5
+another,Mathematics,"globish, upgoer5"
+answer,Education,"globish, ogdens_basic_english, upgoer5"
+ant,Animals,ogdens_basic_english
+any,Nature,"globish, ogdens_basic_english, upgoer5, voa_special_english"
+anymore,Time,upgoer5
+anyone,People,upgoer5
+anything,Nature,upgoer5
+anyway,Direction,upgoer5
+apartment,Buildings,"globish, upgoer5"
+apologize,People,"globish, voa_special_english"
+apparatus,Tools,ogdens_basic_english
+apparently,Visual,upgoer5
+appeal,Business,"globish, voa_special_english"
+appear,Visual,"globish, upgoer5, voa_special_english"
+apple,Food/Drink,"globish, ogdens_basic_english"
+apply,Business,globish
+appoint,Business,"globish, voa_special_english"
+approach,Direction,upgoer5
+approval,Business,ogdens_basic_english
+approve,Business,"globish, voa_special_english"
+arch,Buildings,ogdens_basic_english
+archeology,Education,voa_special_english
+are,People,upgoer5
+area,Mathematics,"globish, upgoer5, voa_special_english"
+argue,Political,"globish, voa_special_english"
+argument,Education,ogdens_basic_english
+arm,Body Parts,"globish, ogdens_basic_english, upgoer5"
+arms,Body Parts,voa_special_english
+army,War,"globish, ogdens_basic_english, voa_special_english"
+around,Direction,"globish, upgoer5, voa_special_english"
+arrest,Political,"globish, voa_special_english"
+arrive,Transport,"globish, upgoer5, voa_special_english"
+art,Visual,"globish, ogdens_basic_english, voa_special_english"
+artillery,War,voa_special_english
+as,Time,"globish, ogdens_basic_english, upgoer5, voa_special_english"
+ash,Nature,voa_special_english
+ask,Education,"globish, upgoer5, voa_special_english"
+asleep,Time,upgoer5
+ass,Body Parts,upgoer5
+assist,Business,"globish, voa_special_english"
+astronaut,People,voa_special_english
+astronomy,Nature,voa_special_english
+asylum,Political,voa_special_english
+at,Time,"globish, ogdens_basic_english, upgoer5, voa_special_english"
+atmosphere,Nature,voa_special_english
+attach,Agriculture,"globish, voa_special_english"
+attack,War,"globish, ogdens_basic_english, upgoer5, voa_special_english"
+attempt,Business,"globish, ogdens_basic_english, upgoer5, voa_special_english"
+attend,Education,"globish, voa_special_english"
+attention,Education,"globish, ogdens_basic_english, upgoer5, voa_special_english"
+attraction,Visual,ogdens_basic_english
+aunt,People,upgoer5
+authority,Political,"globish, ogdens_basic_english"
+automatic,Business,"globish, ogdens_basic_english"
+automobile,Transport,voa_special_english
+autumn,Time,"globish, voa_special_english"
+available,Business,"globish, voa_special_english"
+average,Mathematics,"globish, voa_special_english"
+avoid,Business,"globish, upgoer5, voa_special_english"
+awake,Time,"globish, ogdens_basic_english, voa_special_english"
+award,Business,"globish, voa_special_english"
+away,Direction,"globish, upgoer5, voa_special_english"
+baby,People,"globish, ogdens_basic_english, upgoer5, voa_special_english"
+back,Direction,"globish, ogdens_basic_english, upgoer5, voa_special_english"
+bad,Visual,"globish, ogdens_basic_english, upgoer5, voa_special_english"
+bag,Household,"globish, ogdens_basic_english, upgoer5"
+balance,Business,"globish, ogdens_basic_english, voa_special_english"
+ball,Household,"globish, ogdens_basic_english, upgoer5, voa_special_english"
+balloon,Transport,voa_special_english
+ballot,Political,"globish, voa_special_english"
+ban,Political,"globish, voa_special_english"
+band,Tools,upgoer5
+bank,Business,"globish, voa_special_english"
+bar,Buildings,"globish, upgoer5, voa_special_english"
+barely,Nature,upgoer5
+barrier,Buildings,"globish, voa_special_english"
+base,Buildings,"globish, ogdens_basic_english"
+basin,Household,ogdens_basic_english
+basket,Household,"globish, ogdens_basic_english"
+bath,Household,"globish, ogdens_basic_english"
+bathroom,Household,upgoer5
+battle,War,"globish, voa_special_english"
+be,Nature,"globish, ogdens_basic_english, upgoer5, voa_special_english"
+bear,Animals,globish
+beat,Mathematics,"globish, upgoer5, voa_special_english"
+beautiful,Visual,"ogdens_basic_english, upgoer5"
+beauty,Visual,"globish, voa_special_english"
+became,Time,upgoer5
+because,Education,"globish, ogdens_basic_english, upgoer5, voa_special_english"
+become,Nature,"globish, upgoer5, voa_special_english"
+bed,Household,"globish, ogdens_basic_english, upgoer5, voa_special_english"
+bedroom,Household,upgoer5
+bee,Animals,ogdens_basic_english
+been,Time,upgoer5
+beer,Food/Drink,globish
+before,Time,"globish, ogdens_basic_english, upgoer5, voa_special_english"
+began,Time,upgoer5
+begin,Time,"globish, upgoer5, voa_special_english"
+behavior,People,"ogdens_basic_english, voa_special_english"
+behind,Direction,"globish, upgoer5, voa_special_english"
+belief,Education,ogdens_basic_english
+believe,People,"globish, upgoer5, voa_special_english"
+bell,Household,"globish, ogdens_basic_english, upgoer5"
+belong,Household,"globish, voa_special_english"
+below,Direction,"globish, voa_special_english"
+bend,Visual,globish
+bent,Visual,ogdens_basic_english
+berry,Food/Drink,ogdens_basic_english
+beside,Direction,"globish, upgoer5"
+besides,Direction,upgoer5
+best,Visual,"globish, upgoer5, voa_special_english"
+betray,Political,"globish, voa_special_english"
+better,Visual,"globish, upgoer5, voa_special_english"
+between,Direction,"globish, ogdens_basic_english, upgoer5, voa_special_english"
+big,Visual,"globish, upgoer5, voa_special_english"
+bill,Business,"globish, voa_special_english"
+biology,Nature,voa_special_english
+bird,Animals,"globish, ogdens_basic_english, voa_special_english"
+birth,Nature,"globish, ogdens_basic_english"
+bit,Mathematics,"globish, ogdens_basic_english, upgoer5"
+bite,Food/Drink,"globish, ogdens_basic_english, upgoer5, voa_special_english"
+bitter,Food/Drink,ogdens_basic_english
+black,Color,"globish, ogdens_basic_english, upgoer5, voa_special_english"
+blade,Tools,"globish, ogdens_basic_english"
+blame,Business,"globish, voa_special_english"
+blank,Nature,globish
+blanket,Household,globish
+bleed,Body Parts,"globish, voa_special_english"
+blind,Visual,"globish, voa_special_english"
+blink,Visual,upgoer5
+block,Buildings,"globish, upgoer5, voa_special_english"
+blonde,People,upgoer5
+blood,Body Parts,"globish, ogdens_basic_english, upgoer5, voa_special_english"
+blow,Nature,"globish, ogdens_basic_english, voa_special_english"
+blue,Color,"globish, ogdens_basic_english, upgoer5, voa_special_english"
+blush,Color,upgoer5
+board,Business,"globish, ogdens_basic_english"
+boat,Transport,"globish, ogdens_basic_english, voa_special_english"
+body,Body Parts,"globish, ogdens_basic_english, upgoer5, voa_special_english"
+boil,Food/Drink,voa_special_english
+boiling,Nature,ogdens_basic_english
+bomb,War,"globish, voa_special_english"
+bone,Body Parts,"globish, ogdens_basic_english, voa_special_english"
+bonus,Business,globish
+book,Education,"globish, ogdens_basic_english, upgoer5, voa_special_english"
+boot,Clothes,"globish, ogdens_basic_english"
+border,Political,"globish, voa_special_english"
+bore,Nature,upgoer5
+born,People,"globish, voa_special_english"
+borrow,Business,"globish, voa_special_english"
+boss,Business,globish
+both,Mathematics,"globish, upgoer5, voa_special_english"
+bother,People,upgoer5
+bottle,Household,"globish, ogdens_basic_english, upgoer5, voa_special_english"
+bottom,Direction,"globish, upgoer5, voa_special_english"
+box,Household,"globish, ogdens_basic_english, upgoer5, voa_special_english"
+boy,People,"globish, ogdens_basic_english, upgoer5, voa_special_english"
+boycott,Political,"globish, voa_special_english"
+boyfriend,People,upgoer5
+brain,Body Parts,"globish, ogdens_basic_english, upgoer5, voa_special_english"
+brake,Transport,"globish, ogdens_basic_english"
+branch,Business,"globish, ogdens_basic_english"
+brass,Materials,ogdens_basic_english
+brave,People,"globish, voa_special_english"
+bread,Food/Drink,"globish, ogdens_basic_english, voa_special_english"
+break,Time,"globish, upgoer5, voa_special_english"
+breakfast,Food/Drink,upgoer5
+breath,Body Parts,"ogdens_basic_english, upgoer5"
+breathe,Body Parts,"globish, upgoer5, voa_special_english"
+brick,Materials,"globish, ogdens_basic_english"
+bridge,Transport,"globish, ogdens_basic_english, voa_special_english"
+brief,Time,"globish, voa_special_english"
+bright,Visual,"globish, ogdens_basic_english, upgoer5, voa_special_english"
+bring,Transport,"globish, voa_special_english"
+broad,Visual,globish
+broadcast,Agriculture,"globish, voa_special_english"
+broke,Industry,upgoer5
+broken,Visual,"ogdens_basic_english, upgoer5"
+brother,People,"globish, ogdens_basic_english, upgoer5, voa_special_english"
+brought,Business,upgoer5
+brown,Color,"globish, ogdens_basic_english, upgoer5, voa_special_english"
+brush,Tools,"globish, ogdens_basic_english, upgoer5"
+bucket,Household,ogdens_basic_english
+budget,Business,"globish, voa_special_english"
+build,Industry,"globish, upgoer5, voa_special_english"
+building,Buildings,"ogdens_basic_english, voa_special_english"
+bulb,Household,ogdens_basic_english
+bullet,Visual,"globish, voa_special_english"
+burn,Nature,"globish, ogdens_basic_english, upgoer5, voa_special_english"
+burst,Nature,"globish, ogdens_basic_english, upgoer5, voa_special_english"
+bury,Agriculture,"globish, voa_special_english"
+bus,Transport,"upgoer5, voa_special_english"
+business,Business,"globish, ogdens_basic_english, upgoer5, voa_special_english"
+busy,Business,"globish, upgoer5, voa_special_english"
+but,Direction,"globish, ogdens_basic_english, upgoer5"
+butter,Food/Drink,"globish, ogdens_basic_english"
+button,Clothes,"globish, ogdens_basic_english"
+buy,Business,"globish, upgoer5, voa_special_english"
+by,Direction,"globish, ogdens_basic_english, voa_special_english"
+cabinet,Household,"globish, voa_special_english"
+cake,Food/Drink,ogdens_basic_english
+call,Business,"globish, upgoer5, voa_special_english"
+calm,Nature,"globish, upgoer5, voa_special_english"
+came,Time,upgoer5
+camera,Visual,"globish, ogdens_basic_english, voa_special_english"
+camp,Nature,"globish, voa_special_english"
+campaign,Business,"globish, voa_special_english"
+can,Household,"globish, upgoer5, voa_special_english"
+cancel,Business,"globish, voa_special_english"
+cancer,Body Parts,voa_special_english
+candidate,Political,voa_special_english
+canvas,Materials,ogdens_basic_english
+capital,Business,voa_special_english
+capture,War,"globish, voa_special_english"
+car,Transport,"globish, upgoer5, voa_special_english"
+card,Business,"globish, ogdens_basic_english, upgoer5"
+care,People,"globish, ogdens_basic_english, upgoer5, voa_special_english"
+career,Business,voa_special_english
+careful,Visual,voa_special_english
+carefully,Visual,upgoer5
+carriage,Transport,"globish, ogdens_basic_english"
+carry,Transport,"globish, upgoer5, voa_special_english"
+cart,Transport,ogdens_basic_english
+case,Business,"globish, upgoer5, voa_special_english"
+cash,Business,globish
+cat,Animals,"globish, ogdens_basic_english, upgoer5, voa_special_english"
+catch,Visual,"globish, upgoer5, voa_special_english"
+caught,Visual,upgoer5
+cause,Nature,"globish, ogdens_basic_english, upgoer5, voa_special_english"
+ceasefire,War,voa_special_english
+celebrate,People,"globish, voa_special_english"
+cell,Body Parts,"globish, upgoer5"
+center,Direction,"globish, voa_special_english"
+century,Time,"globish, voa_special_english"
+ceremony,People,"globish, voa_special_english"
+certain,Mathematics,"globish, ogdens_basic_english"
+chain,Household,"globish, ogdens_basic_english"
+chair,Household,"globish, upgoer5"
+chairman,Business,"globish, voa_special_english"
+chalk,Materials,ogdens_basic_english
+challenge,Business,globish
+champion,People,"globish, voa_special_english"
+chance,Mathematics,"globish, ogdens_basic_english, upgoer5, voa_special_english"
+change,Business,"globish, ogdens_basic_english, upgoer5, voa_special_english"
+channel,Nature,globish
+character,People,globish
+charge,Business,"globish, voa_special_english"
+chart,Visual,globish
+chase,Nature,"globish, upgoer5, voa_special_english"
+cheap,Business,"globish, ogdens_basic_english"
+cheat,Education,voa_special_english
+check,Business,"globish, upgoer5"
+cheek,Body Parts,upgoer5
+cheer,People,"globish, voa_special_english"
+cheese,Food/Drink,"globish, ogdens_basic_english"
+chemical,Industry,"globish, ogdens_basic_english"
+chemicals,Materials,voa_special_english
+chemistry,Education,voa_special_english
+chest,Body Parts,"globish, ogdens_basic_english, upgoer5"
+chief,People,"globish, ogdens_basic_english, voa_special_english"
+child,People,"globish, upgoer5, voa_special_english"
+children,People,"upgoer5, voa_special_english"
+chin,Body Parts,ogdens_basic_english
+choose,Business,"globish, voa_special_english"
+chuckle,Visual,upgoer5
+church,Buildings,"globish, ogdens_basic_english"
+circle,Mathematics,"globish, ogdens_basic_english, voa_special_english"
+citizen,People,"globish, voa_special_english"
+city,Buildings,"globish, upgoer5, voa_special_english"
+civil rights,Political,voa_special_english
+civilian,People,"globish, voa_special_english"
+claim,Business,"globish, voa_special_english"
+clash,War,"globish, voa_special_english"
+class,Education,"globish, upgoer5, voa_special_english"
+clean,Visual,"globish, ogdens_basic_english, upgoer5, voa_special_english"
+clear,Visual,"globish, ogdens_basic_english, upgoer5, voa_special_english"
+clergy,People,voa_special_english
+climate,Nature,"globish, voa_special_english"
+climb,Direction,"globish, upgoer5, voa_special_english"
+clock,Time,"globish, ogdens_basic_english, voa_special_english"
+close,Direction,"globish, upgoer5, voa_special_english"
+cloth,Materials,"globish, ogdens_basic_english, voa_special_english"
+clothes,Clothes,"upgoer5, voa_special_english"
+cloud,Nature,"globish, ogdens_basic_english, voa_special_english"
+coal,Materials,"globish, ogdens_basic_english, voa_special_english"
+coalition,Political,voa_special_english
+coast,Nature,"globish, voa_special_english"
+coat,Clothes,"globish, ogdens_basic_english"
+code,Industry,globish
+coffee,Food/Drink,"upgoer5, voa_special_english"
+cold,Nature,"globish, ogdens_basic_english, upgoer5, voa_special_english"
+collapse,Visual,voa_special_english
+collar,Clothes,ogdens_basic_english
+collect,Business,"globish, voa_special_english"
+college,Education,"globish, upgoer5, voa_special_english"
+colony,Political,"globish, voa_special_english"
+color,Color,"globish, ogdens_basic_english, upgoer5, voa_special_english"
+comb,Tools,ogdens_basic_english
+combine,Business,"globish, voa_special_english"
+come,Direction,"globish, ogdens_basic_english, upgoer5, voa_special_english"
+comfort,Household,"globish, ogdens_basic_english"
+command,Business,"globish, voa_special_english"
+comment,Education,"upgoer5, voa_special_english"
+committee,Political,"globish, ogdens_basic_english, voa_special_english"
+common,Mathematics,"globish, ogdens_basic_english, voa_special_english"
+communicate,People,"globish, voa_special_english"
+community,People,"globish, voa_special_english"
+company,Business,"globish, ogdens_basic_english, voa_special_english"
+compare,Mathematics,"globish, voa_special_english"
+comparison,Visual,ogdens_basic_english
+compete,Business,"globish, voa_special_english"
+competition,Business,ogdens_basic_english
+complete,Business,"globish, ogdens_basic_english, upgoer5, voa_special_english"
+completely,Visual,upgoer5
+complex,Mathematics,"ogdens_basic_english, voa_special_english"
+compromise,Political,"globish, voa_special_english"
+computer,Tools,"globish, upgoer5, voa_special_english"
+concern,Business,"globish, upgoer5, voa_special_english"
+condemn,Political,"globish, voa_special_english"
+condition,Business,"globish, ogdens_basic_english, voa_special_english"
+conference,Business,"globish, voa_special_english"
+confirm,Business,"globish, voa_special_english"
+conflict,War,voa_special_english
+confuse,Visual,upgoer5
+congratulate,People,"globish, voa_special_english"
+congress,Political,globish
+connect,Agriculture,"globish, voa_special_english"
+connection,Business,ogdens_basic_english
+conscious,Nature,ogdens_basic_english
+conservative,Political,voa_special_english
+consider,Visual,"globish, upgoer5, voa_special_english"
+constitution,Political,voa_special_english
+consumption,Business,globish
+contact,Business,"globish, voa_special_english"
+contain,Mathematics,"globish, voa_special_english"
+container,Household,voa_special_english
+continent,Nature,"globish, voa_special_english"
+continue,Time,"globish, upgoer5, voa_special_english"
+control,Business,"globish, ogdens_basic_english, upgoer5, voa_special_english"
+convention,Political,voa_special_english
+conversation,People,upgoer5
+cook,Food/Drink,"globish, ogdens_basic_english, voa_special_english"
+cool,Visual,"globish, upgoer5, voa_special_english"
+cooperate,Business,"globish, voa_special_english"
+copper,Materials,ogdens_basic_english
+copy,Business,"globish, ogdens_basic_english, voa_special_english"
+cord,Materials,ogdens_basic_english
+cork,Materials,"globish, ogdens_basic_english"
+corn,Agriculture,"globish, voa_special_english"
+corner,Mathematics,"globish, upgoer5"
+correct,Education,"globish, voa_special_english"
+corruption,Political,voa_special_english
+cost,Business,"globish, voa_special_english"
+cotton,Materials,"globish, ogdens_basic_english, voa_special_english"
+couch,Household,upgoer5
+cough,Body Parts,ogdens_basic_english
+could,Visual,upgoer5
+couldn't,Time,upgoer5
+count,Mathematics,"globish, voa_special_english"
+counter,Mathematics,upgoer5
+country,Political,"globish, ogdens_basic_english, voa_special_english"
+couple,People,upgoer5
+course,Education,"globish, upgoer5"
+court,Political,"globish, voa_special_english"
+cover,Visual,"globish, ogdens_basic_english, upgoer5, voa_special_english"
+cow,Animals,"globish, ogdens_basic_english, voa_special_english"
+crack,Nature,"ogdens_basic_english, upgoer5"
+crash,Transport,"globish, voa_special_english"
+crazy,People,upgoer5
+create,Business,"globish, voa_special_english"
+creature,Animals,voa_special_english
+credit,Business,"globish, ogdens_basic_english, voa_special_english"
+crew,People,"globish, voa_special_english"
+crime,Political,"globish, ogdens_basic_english, voa_special_english"
+criminal,Political,voa_special_english
+crisis,Business,"globish, voa_special_english"
+criteria,Business,globish
+criticize,Education,"globish, voa_special_english"
+crop,Agriculture,globish
+crops,Agriculture,voa_special_english
+cross,Visual,"globish, upgoer5, voa_special_english"
+crowd,People,"globish, upgoer5, voa_special_english"
+cruel,People,ogdens_basic_english
+crush,Industry,"globish, ogdens_basic_english, voa_special_english"
+cry,People,"globish, ogdens_basic_english, upgoer5, voa_special_english"
+culture,Education,"globish, voa_special_english"
+cup,Household,"globish, ogdens_basic_english, upgoer5"
+cure,Body Parts,"globish, voa_special_english"
+curfew,Political,voa_special_english
+current,Time,"globish, ogdens_basic_english, voa_special_english"
+curtain,Household,ogdens_basic_english
+curve,Mathematics,ogdens_basic_english
+cushion,Household,ogdens_basic_english
+custom,Business,"globish, voa_special_english"
+customs,Political,voa_special_english
+cut,Agriculture,"globish, ogdens_basic_english, upgoer5, voa_special_english"
+cute,Visual,upgoer5
+dad,People,upgoer5
+dam,Industry,voa_special_english
+damage,Business,"globish, ogdens_basic_english, voa_special_english"
+damn,People,upgoer5
+dance,Visual,"globish, upgoer5, voa_special_english"
+danger,Nature,"globish, ogdens_basic_english, voa_special_english"
+dark,Visual,"globish, ogdens_basic_english, upgoer5, voa_special_english"
+date,Time,"globish, upgoer5, voa_special_english"
+daughter,People,"globish, ogdens_basic_english, upgoer5, voa_special_english"
+day,Time,"globish, ogdens_basic_english, upgoer5, voa_special_english"
+dead,Nature,"globish, ogdens_basic_english, upgoer5, voa_special_english"
+deaf,Education,"globish, voa_special_english"
+deal,Business,"globish, upgoer5, voa_special_english"
+dear,People,"globish, ogdens_basic_english, upgoer5"
+death,Nature,"ogdens_basic_english, upgoer5"
+debate,Political,"globish, voa_special_english"
+debt,Business,"globish, ogdens_basic_english, voa_special_english"
+decide,Business,"globish, upgoer5, voa_special_english"
+decision,Business,ogdens_basic_english
+declare,Political,"globish, voa_special_english"
+decrease,Mathematics,"globish, voa_special_english"
+deep,Nature,"globish, ogdens_basic_english, upgoer5, voa_special_english"
+defeat,War,"globish, voa_special_english"
+defend,War,"globish, voa_special_english"
+deficit,Business,voa_special_english
+define,Education,"globish, voa_special_english"
+definitely,Visual,upgoer5
+degree,Mathematics,"globish, ogdens_basic_english, voa_special_english"
+delay,Time,"globish, voa_special_english"
+delegate,Political,voa_special_english
+delicate,Nature,"globish, ogdens_basic_english"
+deliver,Business,globish
+demand,Business,"globish, voa_special_english"
+democracy,Political,voa_special_english
+demonstrate,Education,"globish, voa_special_english"
+denounce,Political,"globish, voa_special_english"
+deny,Political,"globish, voa_special_english"
+departure,Transport,globish
+depend,Business,"globish, voa_special_english"
+dependent,Education,ogdens_basic_english
+deplore,Agriculture,voa_special_english
+deploy,War,"globish, voa_special_english"
+depression,Business,"globish, voa_special_english"
+describe,Visual,"globish, voa_special_english"
+desert,Nature,voa_special_english
+desert*,Nature,globish
+design,Visual,"globish, ogdens_basic_english, voa_special_english"
+desire,People,"globish, ogdens_basic_english, voa_special_english"
+desk,Household,upgoer5
+destroy,War,"globish, voa_special_english"
+destruction,War,ogdens_basic_english
+detail,Visual,"globish, ogdens_basic_english, voa_special_english"
+detain,Political,voa_special_english
+develop,Business,"globish, voa_special_english"
+development,Business,ogdens_basic_english
+device,Tools,"globish, voa_special_english"
+dictator,Political,voa_special_english
+did,Time,upgoer5
+die,Tools,"globish, upgoer5, voa_special_english"
+diet,Food/Drink,"globish, voa_special_english"
+differ,Visual,globish
+different,Visual,"ogdens_basic_english, upgoer5, voa_special_english"
+difficult,Education,"globish, voa_special_english"
+dig,Agriculture,"globish, voa_special_english"
+digestion,Nature,ogdens_basic_english
+dinner,Food/Drink,"globish, upgoer5, voa_special_english"
+diplomat,People,"globish, voa_special_english"
+direct,Direction,"globish, voa_special_english"
+direction,Direction,"ogdens_basic_english, upgoer5, voa_special_english"
+dirt,Nature,"globish, voa_special_english"
+dirty,Visual,ogdens_basic_english
+disappear,Visual,"globish, upgoer5, voa_special_english"
+disarm,War,voa_special_english
+disaster,Nature,voa_special_english
+discover,Education,"globish, voa_special_english"
+discovery,Education,ogdens_basic_english
+discrimination,Political,voa_special_english
+discuss,Education,"globish, voa_special_english"
+discussion,People,ogdens_basic_english
+disease,Nature,"globish, ogdens_basic_english, voa_special_english"
+disgust,Education,ogdens_basic_english
+disk,Mathematics,globish
+dismiss,Business,"globish, voa_special_english"
+dispute,Business,"globish, voa_special_english"
+dissident,Political,voa_special_english
+distance,Mathematics,"globish, ogdens_basic_english, voa_special_english"
+distribution,Mathematics,ogdens_basic_english
+dive,Direction,voa_special_english
+divide,Mathematics,"globish, voa_special_english"
+division,Mathematics,ogdens_basic_english
+do,Business,"globish, ogdens_basic_english, upgoer5, voa_special_english"
+doctor,People,"globish, upgoer5, voa_special_english"
+document,Business,"globish, voa_special_english"
+does,Nature,upgoer5
+dog,Animals,"globish, ogdens_basic_english, upgoer5, voa_special_english"
+dollar,Business,voa_special_english
+donate,Business,voa_special_english
+done,Time,upgoer5
+door,Household,"globish, ogdens_basic_english, upgoer5, voa_special_english"
+double,Mathematics,voa_special_english
+doubt,Education,"globish, ogdens_basic_english, upgoer5"
+down,Direction,"globish, ogdens_basic_english, upgoer5, voa_special_english"
+drag,Direction,upgoer5
+drain,Agriculture,"globish, ogdens_basic_english"
+draw,Visual,"globish, upgoer5"
+drawer,Household,ogdens_basic_english
+dream,Visual,"globish, upgoer5, voa_special_english"
+dress,Clothes,"globish, ogdens_basic_english, upgoer5"
+drink,Food/Drink,"globish, ogdens_basic_english, upgoer5, voa_special_english"
+drive,Transport,"globish, upgoer5, voa_special_english"
+driving,Transport,ogdens_basic_english
+drop,Direction,"globish, ogdens_basic_english, upgoer5, voa_special_english"
+drove,Transport,upgoer5
+drown,Nature,voa_special_english
+drug,Industry,"globish, voa_special_english"
+dry,Nature,"globish, ogdens_basic_english, upgoer5, voa_special_english"
+during,Time,"globish, upgoer5, voa_special_english"
+dust,Nature,"globish, ogdens_basic_english, voa_special_english"
+duty,Business,"globish, voa_special_english"
+each,Mathematics,"globish, upgoer5, voa_special_english"
+ear,Body Parts,"globish, ogdens_basic_english, upgoer5"
+early,Time,"globish, ogdens_basic_english, upgoer5, voa_special_english"
+earn,Business,"globish, voa_special_english"
+earth,Nature,"globish, ogdens_basic_english, voa_special_english"
+earthquake,Nature,voa_special_english
+ease,Business,voa_special_english
+east,Direction,"globish, ogdens_basic_english, voa_special_english"
+easy,Education,"globish, upgoer5, voa_special_english"
+eat,Food/Drink,"globish, upgoer5, voa_special_english"
+ecology,Nature,voa_special_english
+economy,Business,voa_special_english
+edge,Visual,"globish, ogdens_basic_english, upgoer5, voa_special_english"
+education,Education,"globish, ogdens_basic_english, voa_special_english"
+effect,Agriculture,"globish, ogdens_basic_english, voa_special_english"
+effort,Business,"globish, voa_special_english"
+egg,Food/Drink,"globish, ogdens_basic_english, voa_special_english"
+either,Direction,"globish, upgoer5, voa_special_english"
+elastic,Business,"globish, ogdens_basic_english"
+elect,Political,voa_special_english
+electric,Industry,ogdens_basic_english
+electricity,Industry,"globish, voa_special_english"
+else,Direction,"globish, upgoer5"
+embassy,Political,"globish, voa_special_english"
+embryo,Nature,voa_special_english
+emergency,Nature,voa_special_english
+emotion,Nature,"globish, voa_special_english"
+employ,Business,"globish, voa_special_english"
+end,Time,"globish, ogdens_basic_english, upgoer5, voa_special_english"
+enemy,War,"globish, voa_special_english"
+energy,Industry,voa_special_english
+enforce,Political,"globish, voa_special_english"
+engine,Industry,"globish, ogdens_basic_english, voa_special_english"
+engineer,People,voa_special_english
+enjoy,People,upgoer5
+enough,Mathematics,"globish, ogdens_basic_english, upgoer5"
+enter,Direction,"upgoer5, voa_special_english"
+entertain,Business,globish
+entire,Nature,upgoer5
+environment,Nature,"globish, voa_special_english"
+equal,Mathematics,"globish, ogdens_basic_english, voa_special_english"
+equate,Mathematics,globish
+equipment,Industry,"globish, voa_special_english"
+erase,Visual,globish
+error,Education,ogdens_basic_english
+escape,Nature,"globish, upgoer5, voa_special_english"
+especially,Education,"globish, upgoer5"
+establish,Business,"globish, voa_special_english"
+estimate,Mathematics,"globish, voa_special_english"
+ethnic,People,"globish, voa_special_english"
+evaporate,Nature,"globish, voa_special_english"
+even,Mathematics,"globish, ogdens_basic_english, upgoer5, voa_special_english"
+evening,Time,upgoer5
+event,Time,"globish, ogdens_basic_english, voa_special_english"
+eventually,Time,upgoer5
+ever,Time,"globish, ogdens_basic_english, upgoer5, voa_special_english"
+every,Mathematics,"globish, ogdens_basic_english, upgoer5, voa_special_english"
+everyone,People,upgoer5
+everything,Nature,upgoer5
+evidence,Education,"globish, voa_special_english"
+evil,People,"globish, voa_special_english"
+exact,Mathematics,"globish, voa_special_english"
+exactly,Mathematics,upgoer5
+examine,Visual,voa_special_english
+example,Education,"globish, ogdens_basic_english, voa_special_english"
+excellent,Visual,voa_special_english
+except,Mathematics,"globish, upgoer5, voa_special_english"
+exchange,Business,"globish, ogdens_basic_english, voa_special_english"
+excite,Visual,upgoer5
+exclaim,People,upgoer5
+excuse,People,"globish, upgoer5, voa_special_english"
+execute,Business,"globish, voa_special_english"
+exercise,Education,"globish, voa_special_english"
+exile,People,voa_special_english
+exist,Nature,"globish, voa_special_english"
+existence,Nature,ogdens_basic_english
+exit,Direction,globish
+expand,Mathematics,"globish, voa_special_english"
+expansion,Business,ogdens_basic_english
+expect,Time,"globish, upgoer5, voa_special_english"
+expel,Education,voa_special_english
+expense,Business,globish
+experience,Education,"globish, ogdens_basic_english, voa_special_english"
+experiment,Education,"globish, voa_special_english"
+expert,People,"globish, ogdens_basic_english, voa_special_english"
+explain,Education,"globish, upgoer5, voa_special_english"
+explode,War,"globish, voa_special_english"
+explore,Education,"globish, voa_special_english"
+export,Business,voa_special_english
+export*,Business,globish
+express,Transport,"globish, voa_special_english"
+expression,Visual,upgoer5
+extend,Visual,"globish, voa_special_english"
+extra,Mathematics,"globish, voa_special_english"
+extraordinary,Business,voa_special_english
+extreme,Mathematics,"globish, voa_special_english"
+extremist,Political,voa_special_english
+eye,Body Parts,"globish, ogdens_basic_english, upgoer5"
+eyebrow,Body Parts,upgoer5
+face,Body Parts,"globish, ogdens_basic_english, upgoer5, voa_special_english"
+fact,Education,"globish, ogdens_basic_english, upgoer5, voa_special_english"
+factory,Industry,"globish, voa_special_english"
+fail,Business,"globish, voa_special_english"
+fair,Visual,"globish, voa_special_english"
+fall,Nature,"globish, ogdens_basic_english, upgoer5, voa_special_english"
+family,People,"globish, ogdens_basic_english, upgoer5, voa_special_english"
+famous,People,"globish, voa_special_english"
+fan,Household,voa_special_english
+far,Visual,"globish, ogdens_basic_english, upgoer5, voa_special_english"
+farm,Agriculture,"ogdens_basic_english, voa_special_english"
+fast,Visual,"globish, upgoer5, voa_special_english"
+fat,Food/Drink,"globish, ogdens_basic_english, voa_special_english"
+father,People,"globish, ogdens_basic_english, upgoer5, voa_special_english"
+fault,Nature,upgoer5
+favorite,People,"upgoer5, voa_special_english"
+fear,People,"globish, ogdens_basic_english, upgoer5, voa_special_english"
+feather,Animals,"globish, ogdens_basic_english"
+feature,Visual,globish
+federal,Political,voa_special_english
+feeble,People,ogdens_basic_english
+feed,Agriculture,"globish, voa_special_english"
+feel,Body Parts,"globish, upgoer5, voa_special_english"
+feeling,Body Parts,ogdens_basic_english
+feet,Body Parts,upgoer5
+fell,Nature,upgoer5
+felt,Materials,upgoer5
+female,People,"globish, ogdens_basic_english, voa_special_english"
+fence,Agriculture,voa_special_english
+fertile,Agriculture,"globish, ogdens_basic_english, voa_special_english"
+few,Mathematics,"globish, upgoer5, voa_special_english"
+fiction,Education,ogdens_basic_english
+field,Agriculture,"globish, ogdens_basic_english, upgoer5, voa_special_english"
+fierce,Nature,"globish, voa_special_english"
+fight,War,"globish, ogdens_basic_english, upgoer5, voa_special_english"
+figure,Visual,"globish, upgoer5"
+file,Business,globish
+fill,Nature,"globish, upgoer5, voa_special_english"
+film,Visual,"globish, voa_special_english"
+final,Time,"globish, voa_special_english"
+finally,Time,upgoer5
+finance,Business,globish
+financial,Business,voa_special_english
+find,Visual,"globish, upgoer5, voa_special_english"
+fine,Visual,"globish, upgoer5, voa_special_english"
+finger,Body Parts,"globish, ogdens_basic_english, upgoer5"
+finish,Time,"globish, upgoer5, voa_special_english"
+fire,Nature,"globish, ogdens_basic_english, upgoer5, voa_special_english"
+fireworks,Visual,voa_special_english
+firm,Business,"globish, voa_special_english"
+first,Mathematics,"globish, ogdens_basic_english, upgoer5, voa_special_english"
+fish,Animals,"globish, ogdens_basic_english, voa_special_english"
+fist,Body Parts,globish
+fit,Body Parts,"globish, upgoer5, voa_special_english"
+five,Mathematics,upgoer5
+fix,Tools,"globish, upgoer5, voa_special_english"
+fixed,Visual,ogdens_basic_english
+flag,Political,"globish, ogdens_basic_english, voa_special_english"
+flame,Nature,ogdens_basic_english
+flash,Visual,upgoer5
+flat,Visual,"globish, ogdens_basic_english, voa_special_english"
+flee,War,voa_special_english
+flight,Transport,ogdens_basic_english
+flip,Direction,upgoer5
+float,Mathematics,"globish, voa_special_english"
+flood,Nature,voa_special_english
+floor,Household,"globish, ogdens_basic_english, upgoer5, voa_special_english"
+flow,Nature,"globish, voa_special_english"
+flower,Nature,"globish, ogdens_basic_english, voa_special_english"
+fluid,Materials,"globish, voa_special_english"
+fly,Animals,"globish, ogdens_basic_english, upgoer5, voa_special_english"
+focus,Visual,upgoer5
+fog,Nature,"globish, voa_special_english"
+fold,Nature,"globish, ogdens_basic_english"
+follow,Direction,"globish, upgoer5, voa_special_english"
+food,Food/Drink,"globish, ogdens_basic_english, upgoer5, voa_special_english"
+fool,People,"globish, voa_special_english"
+foolish,People,ogdens_basic_english
+foot,Body Parts,"globish, ogdens_basic_english, upgoer5, voa_special_english"
+for,Direction,"globish, ogdens_basic_english, voa_special_english"
+forbid,Political,globish
+force,Nature,"globish, ogdens_basic_english, upgoer5, voa_special_english"
+foreign,Nature,"globish, voa_special_english"
+forest,Nature,"globish, voa_special_english"
+forget,Education,"globish, upgoer5, voa_special_english"
+forgive,People,"globish, voa_special_english"
+fork,Household,ogdens_basic_english
+form,Visual,"globish, ogdens_basic_english, upgoer5, voa_special_english"
+former,Time,"globish, voa_special_english"
+forward,Direction,"globish, ogdens_basic_english, upgoer5, voa_special_english"
+found,Visual,upgoer5
+four,Mathematics,upgoer5
+fowl,Animals,ogdens_basic_english
+frame,Household,"globish, ogdens_basic_english"
+free,Business,"globish, ogdens_basic_english, upgoer5, voa_special_english"
+freedom,Political,voa_special_english
+freeze,Nature,"globish, voa_special_english"
+frequent,Time,ogdens_basic_english
+fresh,Food/Drink,"globish, voa_special_english"
+friend,People,"globish, ogdens_basic_english, upgoer5, voa_special_english"
+frighten,People,"globish, voa_special_english"
+from,Direction,"globish, ogdens_basic_english, upgoer5, voa_special_english"
+front,Direction,"globish, ogdens_basic_english, upgoer5, voa_special_english"
+frown,Visual,upgoer5
+fruit,Food/Drink,"globish, ogdens_basic_english, voa_special_english"
+fuel,Industry,"globish, voa_special_english"
+full,Visual,"globish, ogdens_basic_english, upgoer5, voa_special_english"
+fun,Nature,"globish, upgoer5, voa_special_english"
+funeral,People,voa_special_english
+funny,Visual,upgoer5
+further,Direction,upgoer5
+future,Time,"globish, ogdens_basic_english, voa_special_english"
+gain,Business,"globish, voa_special_english"
+gallon,Mathematics,globish
+game,Business,"globish, upgoer5, voa_special_english"
+gang,People,globish
+garden,Nature,"globish, ogdens_basic_english"
+gas,Industry,"globish, voa_special_english"
+gasp,Body Parts,upgoer5
+gather,Agriculture,"globish, voa_special_english"
+gave,People,upgoer5
+gaze,Visual,upgoer5
+general,Business,"globish, ogdens_basic_english, voa_special_english"
+generation,Agriculture,voa_special_english
+genocide,War,voa_special_english
+gentle,People,"globish, voa_special_english"
+gently,Visual,upgoer5
+get,Business,"globish, ogdens_basic_english"
+gift,Business,"globish, voa_special_english"
+giggle,Body Parts,upgoer5
+girl,People,"globish, ogdens_basic_english, upgoer5, voa_special_english"
+girlfriend,People,upgoer5
+give,Business,"globish, ogdens_basic_english, upgoer5, voa_special_english"
+given,Time,upgoer5
+glad,People,upgoer5
+glance,Visual,upgoer5
+glare,Visual,upgoer5
+glass,Materials,"globish, ogdens_basic_english, upgoer5, voa_special_english"
+global,Business,globish
+glove,Clothes,ogdens_basic_english
+go,Direction,"globish, ogdens_basic_english, upgoer5, voa_special_english"
+goal,Business,"globish, voa_special_english"
+goat,Animals,ogdens_basic_english
+god,People,"globish, voa_special_english"
+gold,Materials,"globish, ogdens_basic_english, voa_special_english"
+gone,Time,upgoer5
+gonna,Time,upgoer5
+good,Visual,"globish, ogdens_basic_english, upgoer5, voa_special_english"
+goods,Business,voa_special_english
+gotten,Time,upgoer5
+govern,Political,"globish, voa_special_english"
+government,Political,"ogdens_basic_english, voa_special_english"
+grab,Visual,upgoer5
+grain,Agriculture,"ogdens_basic_english, voa_special_english"
+grass,Nature,"globish, ogdens_basic_english, voa_special_english"
+gray,Color,voa_special_english
+gray (grey),Color,globish
+great,Visual,"globish, ogdens_basic_english, upgoer5, voa_special_english"
+green,Color,"globish, ogdens_basic_english, upgoer5, voa_special_english"
+greet,People,upgoer5
+grey,Color,upgoer5
+grey/gray,Color,ogdens_basic_english
+grin,Visual,upgoer5
+grind,Industry,voa_special_english
+grip,Tools,"ogdens_basic_english, upgoer5"
+groan,Body Parts,upgoer5
+ground,Nature,"globish, upgoer5, voa_special_english"
+group,Business,"globish, ogdens_basic_english, upgoer5, voa_special_english"
+grow,Agriculture,"globish, upgoer5, voa_special_english"
+growth,Business,ogdens_basic_english
+guarantee,Business,"globish, voa_special_english"
+guard,People,"globish, upgoer5, voa_special_english"
+guerrilla,War,voa_special_english
+guess,Visual,"globish, upgoer5"
+guide,Education,"globish, ogdens_basic_english, voa_special_english"
+guilty,Political,"globish, voa_special_english"
+gun,War,"globish, ogdens_basic_english, upgoer5, voa_special_english"
+guy,People,"globish, upgoer5"
+had,Time,upgoer5
+hair,Body Parts,"globish, ogdens_basic_english, upgoer5, voa_special_english"
+half,Mathematics,"globish, upgoer5, voa_special_english"
+hall,Household,upgoer5
+hallway,Buildings,upgoer5
+halt,War,"globish, voa_special_english"
+hammer,Tools,ogdens_basic_english
+hand,Body Parts,"globish, ogdens_basic_english, upgoer5"
+handle,Household,upgoer5
+hang,Household,"globish, upgoer5, voa_special_english"
+hanging,Visual,ogdens_basic_english
+happen,Time,"globish, upgoer5, voa_special_english"
+happy,People,"globish, ogdens_basic_english, upgoer5, voa_special_english"
+harbor,Transport,ogdens_basic_english
+hard,Materials,"globish, ogdens_basic_english, upgoer5, voa_special_english"
+harm,People,"globish, voa_special_english"
+harmony,Visual,ogdens_basic_english
+harvest,Agriculture,voa_special_english
+hat,Clothes,"globish, ogdens_basic_english, voa_special_english"
+hate,People,"globish, ogdens_basic_english, upgoer5, voa_special_english"
+have,Business,"globish, ogdens_basic_english, upgoer5, voa_special_english"
+he,People,"globish, ogdens_basic_english, upgoer5, voa_special_english"
+he'd,People,upgoer5
+he's,People,upgoer5
+head,Body Parts,"globish, ogdens_basic_english, upgoer5, voa_special_english"
+headquarters,Business,voa_special_english
+heal,Body Parts,"globish, voa_special_english"
+health,Body Parts,"globish, voa_special_english"
+healthy,Food/Drink,ogdens_basic_english
+hear,Body Parts,"globish, upgoer5, voa_special_english"
+heard,Visual,upgoer5
+hearing,Body Parts,ogdens_basic_english
+heart,Body Parts,"globish, ogdens_basic_english, upgoer5"
+heat,Nature,"globish, ogdens_basic_english, voa_special_english"
+heavy,Visual,"globish, upgoer5, voa_special_english"
+held,Visual,upgoer5
+helicopter,Transport,voa_special_english
+hello,People,upgoer5
+help,People,"globish, ogdens_basic_english, upgoer5, voa_special_english"
+her,People,"globish, upgoer5"
+here,Direction,"globish, ogdens_basic_english, upgoer5, voa_special_english"
+hero,People,voa_special_english
+herself,People,upgoer5
+hey,People,upgoer5
+hi,People,upgoer5
+hide,Visual,"globish, upgoer5, voa_special_english"
+high,Visual,"globish, ogdens_basic_english, upgoer5, voa_special_english"
+hijack,Transport,"globish, voa_special_english"
+hill,Nature,"globish, voa_special_english"
+him,People,"globish, upgoer5"
+himself,People,upgoer5
+hire,Business,globish
+his,People,"globish, upgoer5"
+history,Education,"globish, ogdens_basic_english, voa_special_english"
+hit,War,"globish, upgoer5, voa_special_english"
+hold,Business,"globish, upgoer5, voa_special_english"
+hole,Industry,"globish, ogdens_basic_english, voa_special_english"
+holiday,Time,"globish, voa_special_english"
+hollow,Visual,"globish, ogdens_basic_english"
+holy,Nature,"globish, voa_special_english"
+home,Buildings,"globish, upgoer5, voa_special_english"
+honest,People,"globish, voa_special_english"
+honor,Political,voa_special_english
+hook,Tools,ogdens_basic_english
+hope,Nature,"globish, ogdens_basic_english, upgoer5, voa_special_english"
+horn,Body Parts,ogdens_basic_english
+horrible,Visual,"globish, voa_special_english"
+horse,Animals,"globish, ogdens_basic_english, upgoer5, voa_special_english"
+hospital,Buildings,"globish, ogdens_basic_english, upgoer5, voa_special_english"
+hostage,People,"globish, voa_special_english"
+hostile,War,"globish, voa_special_english"
+hot,Nature,"globish, upgoer5, voa_special_english"
+hotel,Buildings,voa_special_english
+hour,Time,"globish, ogdens_basic_english, upgoer5, voa_special_english"
+house,Buildings,"globish, ogdens_basic_english, upgoer5, voa_special_english"
+how,Visual,"globish, ogdens_basic_english, upgoer5, voa_special_english"
+however,Education,"globish, upgoer5"
+hug,People,upgoer5
+huge,Visual,"globish, upgoer5, voa_special_english"
+huh,Visual,upgoer5
+human,People,"globish, upgoer5, voa_special_english"
+humor,People,"globish, ogdens_basic_english, voa_special_english"
+hundred,Mathematics,upgoer5
+hung,Visual,upgoer5
+hunger,Food/Drink,"globish, voa_special_english"
+hunt,Animals,"globish, voa_special_english"
+hurry,Time,"globish, upgoer5, voa_special_english"
+hurt,Body Parts,"globish, upgoer5, voa_special_english"
+husband,People,"globish, voa_special_english"
+ice,Nature,"globish, ogdens_basic_english, upgoer5, voa_special_english"
+idea,Education,"globish, ogdens_basic_english, upgoer5, voa_special_english"
+identify,Education,"globish, voa_special_english"
+if,Nature,upgoer5
+ignore,Nature,voa_special_english
+ill,Body Parts,"globish, ogdens_basic_english"
+illegal,Political,voa_special_english
+imagine,Visual,"globish, upgoer5, voa_special_english"
+immediate,Time,voa_special_english
+immediately,Time,upgoer5
+immigrant,People,voa_special_english
+import,Business,voa_special_english
+import*,Business,globish
+important,Education,"globish, ogdens_basic_english, upgoer5, voa_special_english"
+improve,Education,"globish, voa_special_english"
+impulse,Education,ogdens_basic_english
+in,Direction,"globish, ogdens_basic_english, upgoer5, voa_special_english"
+inch,Mathematics,globish
+incident,Business,"globish, voa_special_english"
+incite,Political,voa_special_english
+include,Business,"globish, voa_special_english"
+increase,Mathematics,"ogdens_basic_english, voa_special_english"
+increase*,Mathematics,globish
+independent,Political,"globish, voa_special_english"
+indicate,Visual,globish
+individual,People,"globish, voa_special_english"
+industry,Industry,"globish, ogdens_basic_english, voa_special_english"
+infect,Nature,"globish, voa_special_english"
+inflation,Business,voa_special_english
+influence,Political,"globish, voa_special_english"
+inform,Business,"globish, voa_special_english"
+information,Education,voa_special_english
+inject,Body Parts,"globish, voa_special_english"
+injure,Body Parts,"globish, voa_special_english"
+ink,Materials,ogdens_basic_english
+innocent,People,"globish, voa_special_english"
+insane,People,"globish, voa_special_english"
+insect,Animals,"globish, ogdens_basic_english, voa_special_english"
+inside,Direction,upgoer5
+inspect,Visual,"globish, voa_special_english"
+instead,Direction,globish
+instrument,Tools,"ogdens_basic_english, voa_special_english"
+insult,People,voa_special_english
+insult*,People,globish
+insurance,Business,"globish, ogdens_basic_english"
+intelligence,Business,"globish, voa_special_english"
+intelligent,People,voa_special_english
+intense,Nature,"globish, voa_special_english"
+interest,Business,"globish, ogdens_basic_english, upgoer5, voa_special_english"
+interfere,Political,"globish, voa_special_english"
+international,Political,"globish, voa_special_english"
+interrupt,Time,upgoer5
+intervene,Political,voa_special_english
+into,Direction,"globish, upgoer5"
+invade,War,"globish, voa_special_english"
+invent,Business,"globish, voa_special_english"
+invention,Business,ogdens_basic_english
+invest,Business,"globish, voa_special_english"
+investigate,Education,"globish, voa_special_english"
+invite,Business,"globish, voa_special_english"
+involve,Business,"globish, voa_special_english"
+iron,Materials,"globish, ogdens_basic_english, voa_special_english"
+is,Nature,upgoer5
+island,Nature,"globish, ogdens_basic_english, voa_special_english"
+issue,Business,"globish, voa_special_english"
+it,Mathematics,"globish, upgoer5, voa_special_english"
+item,Business,globish
+its,Nature,upgoer5
+jacket,Clothes,"globish, upgoer5"
+jail,Buildings,"globish, voa_special_english"
+jeans,Clothes,upgoer5
+jelly,Food/Drink,ogdens_basic_english
+jerk,Body Parts,upgoer5
+jewel,Materials,"globish, ogdens_basic_english, voa_special_english"
+job,Business,"globish, upgoer5, voa_special_english"
+join,Mathematics,"globish, ogdens_basic_english, upgoer5, voa_special_english"
+joint,Body Parts,"globish, voa_special_english"
+joke,People,"globish, upgoer5, voa_special_english"
+journey,Transport,ogdens_basic_english
+joy,People,globish
+judge,People,"globish, ogdens_basic_english, voa_special_english"
+jump,Body Parts,"globish, ogdens_basic_english, upgoer5, voa_special_english"
+jury,People,"globish, voa_special_english"
+just,Time,"globish, upgoer5, voa_special_english"
+justice,Political,voa_special_english
+keep,Business,"globish, ogdens_basic_english, upgoer5, voa_special_english"
+kept,Time,upgoer5
+kettle,Household,ogdens_basic_english
+key,Tools,"globish, ogdens_basic_english, upgoer5"
+kick,Body Parts,"globish, ogdens_basic_english, upgoer5, voa_special_english"
+kid,People,"globish, upgoer5"
+kidnap,Political,voa_special_english
+kill,War,"globish, upgoer5, voa_special_english"
+kind,Nature,"globish, ogdens_basic_english, upgoer5, voa_special_english"
+king,People,globish
+kiss,People,"globish, ogdens_basic_english, upgoer5, voa_special_english"
+kit,Tools,globish
+kitchen,Household,"globish, upgoer5"
+knee,Body Parts,"ogdens_basic_english, upgoer5"
+knew,Education,upgoer5
+knife,Tools,"globish, ogdens_basic_english, voa_special_english"
+knock,Visual,upgoer5
+knot,Mathematics,ogdens_basic_english
+know,Education,"globish, upgoer5, voa_special_english"
+knowledge,Education,"ogdens_basic_english, voa_special_english"
+known,Education,upgoer5
+labor,Business,"globish, voa_special_english"
+laboratory,Education,"globish, voa_special_english"
+lack,Business,"globish, voa_special_english"
+lady,People,upgoer5
+lake,Nature,"globish, voa_special_english"
+land,Nature,"globish, ogdens_basic_english, upgoer5, voa_special_english"
+language,Education,"globish, ogdens_basic_english, voa_special_english"
+large,Visual,"globish, upgoer5, voa_special_english"
+last,Time,"globish, ogdens_basic_english, upgoer5, voa_special_english"
+late,Time,"globish, ogdens_basic_english, upgoer5, voa_special_english"
+laugh,People,"globish, ogdens_basic_english, upgoer5, voa_special_english"
+launch,Transport,voa_special_english
+law,Political,"globish, ogdens_basic_english, voa_special_english"
+lay,Agriculture,"globish, upgoer5"
+lead,Materials,"globish, ogdens_basic_english, upgoer5, voa_special_english"
+leaf,Nature,ogdens_basic_english
+leak,Household,"globish, voa_special_english"
+lean,Direction,upgoer5
+learn,Education,"globish, upgoer5, voa_special_english"
+learning,Education,ogdens_basic_english
+least,Mathematics,"globish, upgoer5"
+leather,Materials,ogdens_basic_english
+leave,Direction,"globish, upgoer5, voa_special_english"
+led,Visual,upgoer5
+left,Direction,"globish, ogdens_basic_english, upgoer5, voa_special_english"
+leg,Body Parts,"globish, ogdens_basic_english, upgoer5"
+legal,Political,"globish, voa_special_english"
+legislature,Political,voa_special_english
+lend,Business,"globish, voa_special_english"
+length,Mathematics,globish
+less,Mathematics,"globish, upgoer5, voa_special_english"
+let,Business,"globish, ogdens_basic_english, upgoer5, voa_special_english"
+letter,Education,"globish, ogdens_basic_english, upgoer5, voa_special_english"
+level,Education,"globish, ogdens_basic_english, voa_special_english"
+liberal,Political,voa_special_english
+library,Education,ogdens_basic_english
+lie,Body Parts,"globish, upgoer5, voa_special_english"
+life,Nature,"globish, upgoer5, voa_special_english"
+lift,Industry,"globish, ogdens_basic_english, upgoer5, voa_special_english"
+light,Visual,"globish, ogdens_basic_english, upgoer5, voa_special_english"
+lightning,Nature,voa_special_english
+like,Visual,"globish, ogdens_basic_english, upgoer5, voa_special_english"
+limit,Mathematics,"globish, ogdens_basic_english, voa_special_english"
+line,Visual,"globish, ogdens_basic_english, upgoer5, voa_special_english"
+linen,Materials,ogdens_basic_english
+link,Business,"globish, voa_special_english"
+lip,Body Parts,"globish, ogdens_basic_english, upgoer5"
+liquid,Materials,"globish, ogdens_basic_english, voa_special_english"
+list,Education,"globish, ogdens_basic_english, voa_special_english"
+listen,People,"globish, upgoer5, voa_special_english"
+literature,Education,voa_special_english
+little,Visual,"globish, ogdens_basic_english, upgoer5, voa_special_english"
+live,Nature,"globish, upgoer5, voa_special_english"
+living,Nature,ogdens_basic_english
+load,Education,"globish, voa_special_english"
+loan,Business,"globish, voa_special_english"
+local,Direction,"globish, voa_special_english"
+locate,Visual,globish
+lock,Household,"globish, ogdens_basic_english, upgoer5"
+locker,Household,upgoer5
+log,Mathematics,globish
+lone,People,globish
+lonely,People,voa_special_english
+long,Time,"globish, ogdens_basic_english, upgoer5, voa_special_english"
+look,Visual,"globish, ogdens_basic_english, upgoer5, voa_special_english"
+loose,Household,"globish, ogdens_basic_english"
+lose,Business,"globish, upgoer5, voa_special_english"
+loss,Business,ogdens_basic_english
+lost,Direction,upgoer5
+lot,Business,"globish, upgoer5"
+loud,Visual,"globish, ogdens_basic_english, upgoer5, voa_special_english"
+love,People,"globish, ogdens_basic_english, upgoer5, voa_special_english"
+low,Direction,"globish, ogdens_basic_english, upgoer5, voa_special_english"
+loyal,People,voa_special_english
+luck,Business,"globish, voa_special_english"
+lunch,Food/Drink,upgoer5
+machine,Industry,"ogdens_basic_english, voa_special_english"
+mad,People,upgoer5
+made,Industry,upgoer5
+magazine,Business,voa_special_english
+magic,Visual,globish
+mail,Business,"globish, voa_special_english"
+main,Business,"globish, voa_special_english"
+major,Education,"globish, voa_special_english"
+majority,Political,voa_special_english
+make,Industry,"globish, ogdens_basic_english, upgoer5, voa_special_english"
+male,People,"globish, ogdens_basic_english, voa_special_english"
+man,People,"globish, ogdens_basic_english, upgoer5, voa_special_english"
+manage,Business,upgoer5
+manager,Business,ogdens_basic_english
+manufacture,Industry,"globish, voa_special_english"
+many,Mathematics,"globish, upgoer5, voa_special_english"
+map,Visual,"globish, ogdens_basic_english, voa_special_english"
+march,Time,"globish, voa_special_english"
+mark,Visual,"globish, ogdens_basic_english, upgoer5, voa_special_english"
+market,Business,"globish, ogdens_basic_english, voa_special_english"
+married,People,ogdens_basic_english
+marry,People,"globish, upgoer5, voa_special_english"
+mass,Mathematics,"ogdens_basic_english, voa_special_english"
+master,People,globish
+match,Household,"globish, ogdens_basic_english, upgoer5"
+mate,People,voa_special_english
+material,Materials,"globish, ogdens_basic_english, voa_special_english"
+mathematics,Mathematics,voa_special_english
+matter,Materials,"globish, upgoer5, voa_special_english"
+may,Time,"globish, ogdens_basic_english, upgoer5, voa_special_english"
+maybe,Visual,upgoer5
+mayor,Political,"globish, voa_special_english"
+me,People,"globish, upgoer5"
+meal,Food/Drink,"globish, ogdens_basic_english, voa_special_english"
+mean,Mathematics,"globish, upgoer5, voa_special_english"
+measure,Mathematics,"globish, ogdens_basic_english, voa_special_english"
+meat,Food/Drink,"globish, ogdens_basic_english, voa_special_english"
+media,Business,"globish, voa_special_english"
+medical,Education,ogdens_basic_english
+medicine,Industry,voa_special_english
+meet,People,"globish, upgoer5, voa_special_english"
+meeting,Business,ogdens_basic_english
+melt,Nature,voa_special_english
+member,People,"globish, voa_special_english"
+memorial,Buildings,voa_special_english
+memory,Education,"globish, ogdens_basic_english, upgoer5, voa_special_english"
+men,People,upgoer5
+mental,Body Parts,"globish, voa_special_english"
+mention,People,upgoer5
+mercy,Education,globish
+message,Education,"globish, voa_special_english"
+met,People,upgoer5
+metal,Materials,"globish, ogdens_basic_english, voa_special_english"
+meter,Mathematics,globish
+method,Mathematics,"globish, voa_special_english"
+microscope,Tools,voa_special_english
+middle,Direction,"globish, ogdens_basic_english, upgoer5, voa_special_english"
+might,Mathematics,"globish, upgoer5"
+mile,Mathematics,globish
+militant,War,voa_special_english
+military,War,"globish, ogdens_basic_english, voa_special_english"
+militia,War,voa_special_english
+milk,Food/Drink,"globish, ogdens_basic_english, voa_special_english"
+mind,Body Parts,"globish, ogdens_basic_english, upgoer5, voa_special_english"
+mine,Industry,"globish, ogdens_basic_english, upgoer5, voa_special_english"
+mineral,Materials,voa_special_english
+minister,People,"globish, voa_special_english"
+minor,Mathematics,"globish, voa_special_english"
+minority,People,voa_special_english
+minute,Time,"ogdens_basic_english, upgoer5, voa_special_english"
+mirror,Household,upgoer5
+miscellaneous,Mathematics,globish
+miss,Visual,"globish, upgoer5, voa_special_english"
+missile,War,voa_special_english
+missing,Time,voa_special_english
+mist,Nature,ogdens_basic_english
+mistake,Education,"globish, voa_special_english"
+mix,Food/Drink,"globish, voa_special_english"
+mixed,Nature,ogdens_basic_english
+mob,People,"globish, voa_special_english"
+model,Industry,"globish, voa_special_english"
+moderate,Mathematics,"globish, voa_special_english"
+modern,Time,"globish, voa_special_english"
+mom,People,upgoer5
+moment,Time,upgoer5
+money,Business,"globish, ogdens_basic_english, upgoer5, voa_special_english"
+monkey,Animals,ogdens_basic_english
+month,Time,"globish, ogdens_basic_english, upgoer5, voa_special_english"
+mood,Nature,upgoer5
+moon,Nature,"globish, ogdens_basic_english, voa_special_english"
+moral,People,"globish, voa_special_english"
+more,Mathematics,"globish, upgoer5, voa_special_english"
+morning,Time,"globish, ogdens_basic_english, upgoer5, voa_special_english"
+most,Mathematics,"globish, upgoer5, voa_special_english"
+mother,People,"globish, ogdens_basic_english, upgoer5, voa_special_english"
+motion,Direction,"globish, ogdens_basic_english, voa_special_english"
+mountain,Nature,"globish, ogdens_basic_english, voa_special_english"
+mourn,People,voa_special_english
+mouth,Body Parts,"globish, ogdens_basic_english, upgoer5"
+move,Direction,"globish, ogdens_basic_english, upgoer5, voa_special_english"
+movement,Visual,voa_special_english
+movie,Visual,"upgoer5, voa_special_english"
+much,Mathematics,"globish, ogdens_basic_english, upgoer5, voa_special_english"
+mum,People,upgoer5
+mumble,People,upgoer5
+murder,Political,"globish, voa_special_english"
+muscle,Body Parts,"globish, ogdens_basic_english"
+music,Education,"globish, ogdens_basic_english, upgoer5, voa_special_english"
+must,Education,"globish, voa_special_english"
+mutter,People,upgoer5
+my,People,"globish, upgoer5"
+myself,People,upgoer5
+mystery,Visual,"globish, voa_special_english"
+nail,Body Parts,"globish, ogdens_basic_english"
+name,People,"globish, ogdens_basic_english, upgoer5, voa_special_english"
+narrow,Visual,"globish, ogdens_basic_english, voa_special_english"
+nation,Political,"globish, ogdens_basic_english, voa_special_english"
+native,People,"globish, voa_special_english"
+natural,Nature,"ogdens_basic_english, voa_special_english"
+nature,Nature,voa_special_english
+navy,Color,"globish, voa_special_english"
+near,Direction,"globish, ogdens_basic_english, upgoer5, voa_special_english"
+nearly,Mathematics,upgoer5
+necessary,Education,"globish, ogdens_basic_english, voa_special_english"
+neck,Body Parts,"globish, ogdens_basic_english, upgoer5"
+need,People,"globish, ogdens_basic_english, upgoer5, voa_special_english"
+needle,Household,ogdens_basic_english
+negotiate,Business,voa_special_english
+neighbor,People,"globish, voa_special_english"
+neither,Mathematics,"globish, voa_special_english"
+nerve,Body Parts,"globish, ogdens_basic_english"
+nervous,Body Parts,upgoer5
+net,Business,ogdens_basic_english
+neutral,Mathematics,"globish, voa_special_english"
+never,Time,"globish, upgoer5, voa_special_english"
+new,Time,"globish, ogdens_basic_english, upgoer5, voa_special_english"
+news,Business,"globish, ogdens_basic_english, voa_special_english"
+next,Time,"globish, upgoer5, voa_special_english"
+nice,Visual,"globish, upgoer5, voa_special_english"
+night,Time,"globish, ogdens_basic_english, upgoer5, voa_special_english"
+no,Mathematics,"globish, ogdens_basic_english, upgoer5, voa_special_english"
+nod,Body Parts,upgoer5
+noise,Nature,"globish, ogdens_basic_english, upgoer5, voa_special_english"
+nominate,Political,voa_special_english
+noon,Time,"globish, voa_special_english"
+normal,Nature,"globish, ogdens_basic_english, upgoer5, voa_special_english"
+north,Direction,"globish, ogdens_basic_english, voa_special_english"
+nose,Body Parts,"globish, ogdens_basic_english, upgoer5"
+not,Mathematics,"globish, ogdens_basic_english"
+note,Education,"globish, ogdens_basic_english, upgoer5, voa_special_english"
+nothing,Nature,"globish, upgoer5, voa_special_english"
+notice,Business,"globish, upgoer5"
+now,Time,"globish, ogdens_basic_english, upgoer5, voa_special_english"
+nowhere,Direction,"globish, voa_special_english"
+nuclear,War,voa_special_english
+number,Mathematics,"globish, ogdens_basic_english, upgoer5, voa_special_english"
+nut,Food/Drink,ogdens_basic_english
+obey,Education,"globish, voa_special_english"
+object,Mathematics,"globish, voa_special_english"
+observation,Education,ogdens_basic_english
+observe,Visual,"globish, voa_special_english"
+obviously,Visual,upgoer5
+occupy,War,"globish, voa_special_english"
+occur,Time,globish
+ocean,Nature,voa_special_english
+of,Nature,"globish, ogdens_basic_english, voa_special_english"
+off,Direction,"globish, ogdens_basic_english, upgoer5, voa_special_english"
+offensive,People,"globish, voa_special_english"
+offer,Business,"globish, ogdens_basic_english, upgoer5, voa_special_english"
+office,Business,"globish, ogdens_basic_english, upgoer5, voa_special_english"
+officer,People,"globish, voa_special_english"
+official,Political,voa_special_english
+often,Time,"globish, upgoer5, voa_special_english"
+oh,People,upgoer5
+oil,Materials,"globish, ogdens_basic_english, voa_special_english"
+okay,Visual,upgoer5
+old,Time,"globish, ogdens_basic_english, upgoer5, voa_special_english"
+on,Direction,"globish, ogdens_basic_english, upgoer5, voa_special_english"
+once,Time,"globish, upgoer5, voa_special_english"
+one,Mathematics,upgoer5
+only,Mathematics,"globish, ogdens_basic_english, upgoer5, voa_special_english"
+onto,Direction,upgoer5
+open,Visual,"globish, ogdens_basic_english, upgoer5, voa_special_english"
+operate,Business,"globish, voa_special_english"
+operation,Business,ogdens_basic_english
+opinion,Education,"globish, ogdens_basic_english, voa_special_english"
+opportunity,Business,globish
+oppose,Political,voa_special_english
+opposite,Direction,"globish, ogdens_basic_english, voa_special_english"
+oppress,Political,"globish, voa_special_english"
+or,Nature,"globish, ogdens_basic_english, upgoer5, voa_special_english"
+orange,Color,ogdens_basic_english
+orbit,Nature,voa_special_english
+order,Business,"globish, ogdens_basic_english, upgoer5, voa_special_english"
+organization,Business,ogdens_basic_english
+organize,Business,"globish, voa_special_english"
+ornament,Visual,ogdens_basic_english
+other,Mathematics,"globish, ogdens_basic_english, upgoer5, voa_special_english"
+ounce,Mathematics,globish
+our,People,"globish, upgoer5, voa_special_english"
+ours,People,globish
+oust,Political,"globish, voa_special_english"
+out,Direction,"globish, ogdens_basic_english, upgoer5, voa_special_english"
+outside,Direction,upgoer5
+oven,Household,ogdens_basic_english
+over,Direction,"globish, ogdens_basic_english, upgoer5, voa_special_english"
+overthrow,Political,voa_special_english
+owe,Business,"globish, voa_special_english"
+own,Business,"globish, upgoer5, voa_special_english"
+owner,People,ogdens_basic_english
+pack,Business,upgoer5
+page,Education,"globish, ogdens_basic_english"
+pain,Body Parts,"globish, ogdens_basic_english, upgoer5, voa_special_english"
+paint,Visual,"globish, ogdens_basic_english, upgoer5, voa_special_english"
+pair,Mathematics,upgoer5
+pan,Business,globish
+pants,Clothes,"globish, upgoer5"
+paper,Materials,"globish, ogdens_basic_english, upgoer5, voa_special_english"
+parachute,Transport,voa_special_english
+parade,Visual,"globish, voa_special_english"
+parallel,Mathematics,ogdens_basic_english
+parcel,Business,"globish, ogdens_basic_english"
+pardon,Political,voa_special_english
+parent,People,"globish, voa_special_english"
+parents,People,upgoer5
+park,Nature,upgoer5
+parliament,Political,"globish, voa_special_english"
+part,Body Parts,"globish, ogdens_basic_english, upgoer5, voa_special_english"
+partner,People,voa_special_english
+party,Political,"globish, upgoer5, voa_special_english"
+pass,Direction,"globish, upgoer5, voa_special_english"
+passenger,Transport,"globish, voa_special_english"
+passport,Political,voa_special_english
+past,Time,"globish, ogdens_basic_english, upgoer5, voa_special_english"
+paste,Business,"globish, ogdens_basic_english"
+path,Direction,"globish, voa_special_english"
+patient,People,"globish, voa_special_english"
+pattern,Mathematics,globish
+pause,Time,upgoer5
+pay,Business,"globish, upgoer5, voa_special_english"
+payment,Business,ogdens_basic_english
+peace,Political,"globish, ogdens_basic_english, voa_special_english"
+pen,Tools,"globish, ogdens_basic_english"
+pencil,Tools,"globish, ogdens_basic_english"
+people,People,"globish, upgoer5, voa_special_english"
+percent,Mathematics,"globish, voa_special_english"
+perfect,Visual,"globish, upgoer5, voa_special_english"
+perform,Business,"globish, voa_special_english"
+perhaps,Visual,globish
+period,Time,"globish, voa_special_english"
+permanent,Time,"globish, voa_special_english"
+permit,Business,"globish, voa_special_english"
+person,People,"globish, ogdens_basic_english, upgoer5, voa_special_english"
+persuade,Business,voa_special_english
+phone,Household,upgoer5
+physical,Nature,"globish, ogdens_basic_english, voa_special_english"
+physics,Education,voa_special_english
+pick,Tools,"globish, upgoer5"
+picture,Visual,"globish, ogdens_basic_english, upgoer5, voa_special_english"
+piece,Mathematics,"globish, upgoer5, voa_special_english"
+pig,Animals,"globish, ogdens_basic_english, voa_special_english"
+pilot,Transport,"globish, voa_special_english"
+pin,Household,ogdens_basic_english
+pink,Color,upgoer5
+pint,Food/Drink,globish
+pipe,Tools,"globish, ogdens_basic_english, voa_special_english"
+piss,Body Parts,upgoer5
+place,Nature,"globish, ogdens_basic_english, upgoer5, voa_special_english"
+plain,Visual,globish
+plan,Business,"globish, upgoer5, voa_special_english"
+plane,Transport,"globish, ogdens_basic_english"
+planet,Nature,voa_special_english
+plant,Nature,"globish, ogdens_basic_english, voa_special_english"
+plastic,Materials,"globish, voa_special_english"
+plate,Household,"globish, ogdens_basic_english"
+play,Visual,"globish, ogdens_basic_english, upgoer5, voa_special_english"
+please,People,"globish, upgoer5, voa_special_english"
+pleasure,People,ogdens_basic_english
+plenty,Mathematics,"globish, voa_special_english"
+plot,Visual,voa_special_english
+plough/plow,Agriculture,ogdens_basic_english
+pocket,Clothes,"globish, ogdens_basic_english, upgoer5"
+poem,Education,voa_special_english
+point,Mathematics,"globish, ogdens_basic_english, upgoer5, voa_special_english"
+poison,Nature,"globish, ogdens_basic_english, voa_special_english"
+police,People,"upgoer5, voa_special_english"
+policy,Political,"globish, voa_special_english"
+polish,People,ogdens_basic_english
+political,Political,ogdens_basic_english
+politics,Political,"globish, voa_special_english"
+pollute,Nature,"globish, voa_special_english"
+poor,People,"globish, ogdens_basic_english, voa_special_english"
+pop,Nature,upgoer5
+popular,People,"globish, voa_special_english"
+population,People,voa_special_english
+port,Transport,"globish, voa_special_english"
+porter,People,ogdens_basic_english
+position,Direction,"globish, ogdens_basic_english, upgoer5, voa_special_english"
+possess,Business,"globish, voa_special_english"
+possible,Mathematics,"globish, ogdens_basic_english, upgoer5, voa_special_english"
+postpone,Time,"globish, voa_special_english"
+pot,Household,ogdens_basic_english
+potato,Food/Drink,"globish, ogdens_basic_english"
+pound,Mathematics,globish
+pour,Food/Drink,"globish, voa_special_english"
+poverty,Political,voa_special_english
+powder,Materials,"globish, ogdens_basic_english"
+power,Industry,"globish, ogdens_basic_english, upgoer5, voa_special_english"
+practically,Nature,upgoer5
+practice,Education,globish
+praise,People,"globish, voa_special_english"
+pray,People,"globish, voa_special_english"
+predict,Time,voa_special_english
+pregnant,People,"globish, voa_special_english"
+present,Time,"globish, ogdens_basic_english, upgoer5, voa_special_english"
+president,Political,voa_special_english
+press,Business,"globish, upgoer5, voa_special_english"
+pressure,Nature,voa_special_english
+pretend,Visual,upgoer5
+pretty,Visual,"globish, upgoer5"
+prevent,Business,"globish, voa_special_english"
+price,Business,"globish, ogdens_basic_english, voa_special_english"
+print,Industry,"globish, ogdens_basic_english"
+prison,Buildings,"globish, ogdens_basic_english, voa_special_english"
+private,Business,"globish, ogdens_basic_english, voa_special_english"
+prize,Business,"globish, voa_special_english"
+probable,Mathematics,ogdens_basic_english
+probably,Mathematics,"upgoer5, voa_special_english"
+problem,Education,"globish, upgoer5, voa_special_english"
+process,Industry,"globish, ogdens_basic_english, voa_special_english"
+produce,Agriculture,"ogdens_basic_english, voa_special_english"
+product,Business,globish
+profession,People,voa_special_english
+professor,Education,"globish, voa_special_english"
+profit,Business,"globish, ogdens_basic_english, voa_special_english"
+program,Business,"globish, voa_special_english"
+progress,Education,voa_special_english
+progress*,Business,globish
+project,Business,voa_special_english
+project*,Business,globish
+promise,Business,"upgoer5, voa_special_english"
+propaganda,Political,voa_special_english
+property,Business,"globish, ogdens_basic_english, voa_special_english"
+propose,Business,"globish, voa_special_english"
+prose,Education,ogdens_basic_english
+protect,Business,"globish, voa_special_english"
+protest,Political,"globish, ogdens_basic_english, voa_special_english"
+prove,Business,"globish, voa_special_english"
+provide,Business,"globish, voa_special_english"
+public,Political,"globish, ogdens_basic_english, voa_special_english"
+publication,Business,voa_special_english
+publish,Business,"globish, voa_special_english"
+pull,Direction,"globish, ogdens_basic_english, upgoer5, voa_special_english"
+pump,Tools,"ogdens_basic_english, voa_special_english"
+punch,Tools,upgoer5
+punish,Education,"globish, voa_special_english"
+punishment,Political,ogdens_basic_english
+purchase,Business,"globish, voa_special_english"
+pure,Materials,"globish, voa_special_english"
+purpose,Business,"globish, ogdens_basic_english, voa_special_english"
+push,Direction,"globish, ogdens_basic_english, upgoer5, voa_special_english"
+put,Direction,"globish, ogdens_basic_english, upgoer5, voa_special_english"
+quality,Visual,"globish, ogdens_basic_english, voa_special_english"
+quart,Mathematics,globish
+quarter,Time,globish
+queen,Political,globish
+question,Education,"globish, ogdens_basic_english, upgoer5, voa_special_english"
+quick,Time,"globish, ogdens_basic_english, upgoer5, voa_special_english"
+quickly,Time,upgoer5
+quiet,Nature,"globish, ogdens_basic_english, upgoer5, voa_special_english"
+quietly,Visual,upgoer5
+quit,Business,globish
+quite,Mathematics,"globish, ogdens_basic_english, upgoer5"
+race,People,"globish, upgoer5, voa_special_english"
+radar,Industry,voa_special_english
+radiation,Nature,"globish, voa_special_english"
+radio,Industry,voa_special_english
+raid,War,"globish, voa_special_english"
+rail,Transport,"globish, ogdens_basic_english"
+railroad,Transport,voa_special_english
+rain,Nature,"globish, ogdens_basic_english, upgoer5, voa_special_english"
+raise,Agriculture,"globish, upgoer5, voa_special_english"
+ran,Direction,upgoer5
+rang,Nature,upgoer5
+range,Mathematics,"globish, ogdens_basic_english"
+rape,People,voa_special_english
+rare,Nature,"globish, voa_special_english"
+rat,Animals,ogdens_basic_english
+rate,Business,"globish, ogdens_basic_english, voa_special_english"
+rather,Mathematics,globish
+ray,Mathematics,"globish, ogdens_basic_english"
+reach,Body Parts,"globish, upgoer5, voa_special_english"
+react,Education,"globish, voa_special_english"
+reaction,Education,ogdens_basic_english
+read,Education,"globish, upgoer5, voa_special_english"
+reading,Education,ogdens_basic_english
+ready,Time,"globish, ogdens_basic_english, upgoer5, voa_special_english"
+real,Nature,"globish, upgoer5, voa_special_english"
+realistic,Visual,voa_special_english
+realize,Visual,upgoer5
+really,Visual,upgoer5
+reason,Mathematics,"globish, ogdens_basic_english, upgoer5, voa_special_english"
+reasonable,Business,voa_special_english
+rebel,Political,voa_special_english
+receipt,Business,ogdens_basic_english
+receive,Business,"globish, voa_special_english"
+recent,Time,voa_special_english
+recession,Business,voa_special_english
+recognize,Visual,"globish, upgoer5, voa_special_english"
+record,Business,"ogdens_basic_english, voa_special_english"
+record*,Business,globish
+recover,Business,"globish, voa_special_english"
+red,Color,"globish, ogdens_basic_english, upgoer5, voa_special_english"
+reduce,Mathematics,"globish, voa_special_english"
+reform,Political,voa_special_english
+refugee,People,"globish, voa_special_english"
+refuse,Household,voa_special_english
+refuse*,Household,globish
+register,Business,voa_special_english
+regret,People,"globish, ogdens_basic_english, voa_special_english"
+regular,Education,"globish, ogdens_basic_english"
+reject,Business,"globish, voa_special_english"
+relation,Mathematics,"globish, ogdens_basic_english"
+relations,Political,voa_special_english
+relationship,People,upgoer5
+relax,Nature,upgoer5
+release,Business,"globish, voa_special_english"
+religion,Education,"ogdens_basic_english, voa_special_english"
+remain,Time,"globish, upgoer5, voa_special_english"
+remains,Body Parts,voa_special_english
+remember,Education,"globish, upgoer5, voa_special_english"
+remind,Time,upgoer5
+remove,Industry,"globish, voa_special_english"
+repair,Business,"globish, voa_special_english"
+repeat,Time,"globish, upgoer5, voa_special_english"
+reply,People,upgoer5
+report,Business,"globish, voa_special_english"
+represent,Political,"globish, voa_special_english"
+representative,Political,ogdens_basic_english
+repress,Political,voa_special_english
+request,Business,"globish, ogdens_basic_english, voa_special_english"
+require,Business,"globish, voa_special_english"
+rescue,People,"globish, voa_special_english"
+research,Education,"globish, voa_special_english"
+resign,Business,"globish, voa_special_english"
+resist,War,"globish, voa_special_english"
+resolution,Political,"globish, voa_special_english"
+resource,Industry,"globish, voa_special_english"
+respect,People,"globish, ogdens_basic_english, voa_special_english"
+respond,People,upgoer5
+responsible,People,"globish, ogdens_basic_english, voa_special_english"
+rest,Time,"globish, ogdens_basic_english, upgoer5, voa_special_english"
+restaurant,Buildings,voa_special_english
+restrain,Political,"globish, voa_special_english"
+restrict,Political,voa_special_english
+result,Education,"globish, voa_special_english"
+retire,Agriculture,"globish, voa_special_english"
+return,Direction,"globish, upgoer5, voa_special_english"
+revolt,Political,"globish, voa_special_english"
+reward,Business,"globish, ogdens_basic_english"
+rhythm,Time,ogdens_basic_english
+rice,Food/Drink,"globish, ogdens_basic_english, voa_special_english"
+rich,Business,"globish, voa_special_english"
+ride,Transport,"globish, upgoer5, voa_special_english"
+right,Direction,"globish, ogdens_basic_english, upgoer5, voa_special_english"
+ring,Clothes,"globish, ogdens_basic_english, upgoer5"
+riot,Political,"globish, voa_special_english"
+rise,Direction,"globish, voa_special_english"
+risk,Business,"globish, voa_special_english"
+river,Nature,"globish, ogdens_basic_english, voa_special_english"
+road,Transport,"globish, ogdens_basic_english, upgoer5, voa_special_english"
+rob,Education,"globish, voa_special_english"
+rock,Nature,"globish, upgoer5, voa_special_english"
+rocket,Transport,"globish, voa_special_english"
+rod,Tools,ogdens_basic_english
+roll,Agriculture,"globish, ogdens_basic_english, upgoer5, voa_special_english"
+roof,Buildings,"globish, ogdens_basic_english"
+room,Buildings,"globish, ogdens_basic_english, upgoer5, voa_special_english"
+root,Nature,"globish, ogdens_basic_english, voa_special_english"
+rope,Tools,"globish, voa_special_english"
+rose,Nature,upgoer5
+rough,Visual,"globish, ogdens_basic_english, voa_special_english"
+round,Mathematics,"globish, ogdens_basic_english, upgoer5, voa_special_english"
+row,Education,globish
+rub,Body Parts,"globish, ogdens_basic_english, upgoer5, voa_special_english"
+rubber,Materials,"globish, voa_special_english"
+ruin,Buildings,"globish, voa_special_english"
+rule,Political,"globish, ogdens_basic_english, voa_special_english"
+run,Transport,"globish, ogdens_basic_english, upgoer5, voa_special_english"
+rural,Nature,voa_special_english
+rush,Time,upgoer5
+sabotage,War,voa_special_english
+sacrifice,War,voa_special_english
+sad,People,"globish, ogdens_basic_english, upgoer5, voa_special_english"
+safe,Nature,"globish, ogdens_basic_english, upgoer5, voa_special_english"
+said,People,upgoer5
+sail,Transport,"globish, ogdens_basic_english, voa_special_english"
+sailor,People,voa_special_english
+salt,Food/Drink,"globish, ogdens_basic_english, voa_special_english"
+same,Mathematics,"globish, ogdens_basic_english, upgoer5, voa_special_english"
+sand,Materials,"globish, ogdens_basic_english, voa_special_english"
+sat,Direction,upgoer5
+satellite,Transport,voa_special_english
+satisfy,Education,"globish, voa_special_english"
+save,Business,"globish, upgoer5, voa_special_english"
+saw,Tools,upgoer5
+say,People,"globish, ogdens_basic_english, upgoer5, voa_special_english"
+scale,Mathematics,"globish, ogdens_basic_english"
+scare,Political,"globish, upgoer5"
+school,Education,"globish, ogdens_basic_english, upgoer5, voa_special_english"
+science,Education,"globish, ogdens_basic_english, voa_special_english"
+scissors,Tools,ogdens_basic_english
+score,Education,globish
+scream,Visual,upgoer5
+screw,Tools,ogdens_basic_english
+script,Education,globish
+sea,Nature,"globish, ogdens_basic_english, voa_special_english"
+search,Visual,"globish, upgoer5, voa_special_english"
+season,Time,"globish, voa_special_english"
+seat,Household,"globish, ogdens_basic_english, upgoer5, voa_special_english"
+second,Time,"globish, ogdens_basic_english, upgoer5, voa_special_english"
+secret,Political,"globish, ogdens_basic_english, voa_special_english"
+secretary,People,ogdens_basic_english
+section,Mathematics,globish
+security,Business,"globish, voa_special_english"
+see,Visual,"globish, ogdens_basic_english, upgoer5, voa_special_english"
+seed,Agriculture,"globish, ogdens_basic_english, voa_special_english"
+seek,Visual,globish
+seeking,Business,voa_special_english
+seem,Visual,"globish, ogdens_basic_english, upgoer5, voa_special_english"
+seen,Visual,upgoer5
+seize,Political,"globish, voa_special_english"
+seldom,Time,globish
+selection,Nature,ogdens_basic_english
+self,People,"globish, ogdens_basic_english, upgoer5, voa_special_english"
+sell,Business,"globish, voa_special_english"
+senate,Political,globish
+send,Business,"globish, ogdens_basic_english, upgoer5, voa_special_english"
+sense,Body Parts,"globish, ogdens_basic_english, upgoer5, voa_special_english"
+sent,Direction,upgoer5
+sentence,Education,"globish, voa_special_english"
+separate,Mathematics,"globish, ogdens_basic_english, voa_special_english"
+series,Mathematics,"globish, voa_special_english"
+serious,People,"globish, ogdens_basic_english, upgoer5, voa_special_english"
+seriously,Visual,upgoer5
+servant,People,ogdens_basic_english
+serve,Business,"globish, voa_special_english"
+service,Business,voa_special_english
+set,Mathematics,"globish, upgoer5, voa_special_english"
+settle,Agriculture,"globish, upgoer5, voa_special_english"
+seven,Mathematics,upgoer5
+several,Mathematics,"globish, upgoer5, voa_special_english"
+severe,Nature,"globish, voa_special_english"
+sex,People,"globish, ogdens_basic_english, voa_special_english"
+shade,Visual,"globish, ogdens_basic_english"
+shadow,Visual,upgoer5
+shake,Food/Drink,"globish, ogdens_basic_english, upgoer5, voa_special_english"
+shall,Political,globish
+shame,People,"globish, ogdens_basic_english"
+shape,Mathematics,"globish, voa_special_english"
+share,Business,"globish, upgoer5, voa_special_english"
+sharp,Visual,"globish, ogdens_basic_english, voa_special_english"
+she,People,"globish, upgoer5, voa_special_english"
+she'd,People,upgoer5
+she's,People,upgoer5
+sheep,Animals,"ogdens_basic_english, voa_special_english"
+sheet,Education,globish
+shelf,Household,"globish, ogdens_basic_english"
+shell,Nature,"globish, voa_special_english"
+shelter,Buildings,"globish, voa_special_english"
+shift,Direction,upgoer5
+shine,Visual,"globish, voa_special_english"
+ship,Transport,"globish, ogdens_basic_english, voa_special_english"
+shirt,Clothes,"globish, ogdens_basic_english, upgoer5"
+shit,Body Parts,upgoer5
+shock,Nature,"globish, ogdens_basic_english, upgoer5, voa_special_english"
+shoe,Clothes,"globish, ogdens_basic_english, upgoer5, voa_special_english"
+shook,Visual,upgoer5
+shoot,War,"globish, voa_special_english"
+shop,Business,"globish, upgoer5"
+short,Mathematics,"globish, ogdens_basic_english, upgoer5, voa_special_english"
+shot,Visual,upgoer5
+should,Education,globish
+shoulder,Body Parts,upgoer5
+shout,People,"globish, upgoer5, voa_special_english"
+shove,Direction,upgoer5
+show,Visual,"globish, upgoer5, voa_special_english"
+shower,Household,upgoer5
+shrink,Business,"globish, voa_special_english"
+shrug,Visual,upgoer5
+shut,Visual,"globish, ogdens_basic_english, upgoer5"
+sick,Body Parts,"globish, upgoer5, voa_special_english"
+sickness,Body Parts,voa_special_english
+side,Direction,"globish, ogdens_basic_english, upgoer5, voa_special_english"
+sigh,Body Parts,upgoer5
+sight,Visual,upgoer5
+sign,Visual,"globish, ogdens_basic_english, upgoer5, voa_special_english"
+signal,Visual,"globish, voa_special_english"
+silence,Nature,"globish, upgoer5, voa_special_english"
+silent,Visual,upgoer5
+silk,Materials,"globish, ogdens_basic_english"
+silver,Materials,"globish, ogdens_basic_english, voa_special_english"
+similar,Mathematics,"globish, voa_special_english"
+simple,Education,"globish, ogdens_basic_english, voa_special_english"
+simply,Education,upgoer5
+since,Time,"globish, upgoer5, voa_special_english"
+sing,Nature,"globish, voa_special_english"
+single,Mathematics,"globish, upgoer5, voa_special_english"
+sink,Household,voa_special_english
+sir,People,upgoer5
+sister,People,"globish, ogdens_basic_english, upgoer5, voa_special_english"
+sit,Body Parts,"globish, upgoer5, voa_special_english"
+situation,Business,"globish, upgoer5, voa_special_english"
+six,Mathematics,upgoer5
+size,Visual,"globish, ogdens_basic_english, voa_special_english"
+skeleton,Body Parts,voa_special_english
+skill,Education,"globish, voa_special_english"
+skin,Body Parts,"globish, ogdens_basic_english, upgoer5, voa_special_english"
+skirt,Clothes,"globish, ogdens_basic_english"
+sky,Nature,"globish, ogdens_basic_english, upgoer5, voa_special_english"
+slam,Visual,upgoer5
+slave,People,"globish, voa_special_english"
+sleep,Body Parts,"globish, ogdens_basic_english, upgoer5, voa_special_english"
+slide,Education,"globish, voa_special_english"
+slightly,Visual,upgoer5
+slip,Visual,"globish, ogdens_basic_english, upgoer5"
+slope,Mathematics,ogdens_basic_english
+slow,Time,"globish, ogdens_basic_english, upgoer5, voa_special_english"
+slowly,Time,upgoer5
+small,Visual,"globish, ogdens_basic_english, upgoer5, voa_special_english"
+smart,Education,globish
+smash,Business,"globish, ogdens_basic_english, voa_special_english"
+smell,Body Parts,"globish, ogdens_basic_english, upgoer5, voa_special_english"
+smile,Visual,"globish, ogdens_basic_english, upgoer5"
+smirk,Visual,upgoer5
+smoke,Nature,"globish, ogdens_basic_english, upgoer5, voa_special_english"
+smooth,Visual,"globish, ogdens_basic_english, voa_special_english"
+snack,Food/Drink,globish
+snake,Animals,"globish, ogdens_basic_english"
+snap,Visual,upgoer5
+sneeze,Body Parts,"globish, ogdens_basic_english"
+snow,Nature,"globish, ogdens_basic_english, voa_special_english"
+so,Mathematics,"globish, ogdens_basic_english, upgoer5"
+soap,Household,"globish, ogdens_basic_english"
+social,People,"globish, voa_special_english"
+society,People,"globish, ogdens_basic_english"
+sock,Clothes,ogdens_basic_english
+soft,Visual,"globish, ogdens_basic_english, upgoer5, voa_special_english"
+softly,Visual,upgoer5
+soil,Agriculture,"globish, voa_special_english"
+soldier,War,"globish, voa_special_english"
+solid,Materials,"globish, ogdens_basic_english, voa_special_english"
+solve,Mathematics,"globish, voa_special_english"
+some,Mathematics,"globish, ogdens_basic_english, upgoer5, voa_special_english"
+somehow,Nature,upgoer5
+someone,People,upgoer5
+something,Nature,upgoer5
+sometimes,Time,upgoer5
+somewhere,Direction,upgoer5
+son,People,"globish, ogdens_basic_english, upgoer5, voa_special_english"
+song,Visual,"globish, ogdens_basic_english, upgoer5"
+soon,Time,"globish, upgoer5, voa_special_english"
+sorry,People,"globish, upgoer5"
+sort,Mathematics,"globish, ogdens_basic_english, upgoer5, voa_special_english"
+soul,Nature,globish
+sound,Nature,"globish, ogdens_basic_english, upgoer5, voa_special_english"
+soup,Food/Drink,ogdens_basic_english
+south,Direction,"globish, ogdens_basic_english, voa_special_english"
+space,Nature,"globish, ogdens_basic_english, upgoer5, voa_special_english"
+spade,Tools,ogdens_basic_english
+speak,People,"globish, upgoer5, voa_special_english"
+special,Visual,"globish, ogdens_basic_english, voa_special_english"
+speech,Education,"globish, voa_special_english"
+speed,Mathematics,"globish, voa_special_english"
+spell,Education,globish
+spend,Business,"globish, upgoer5, voa_special_english"
+spent,Business,upgoer5
+spill,Nature,voa_special_english
+spirit,Food/Drink,"globish, voa_special_english"
+split,Nature,voa_special_english
+spoke,Education,upgoer5
+sponge,Animals,ogdens_basic_english
+spoon,Household,ogdens_basic_english
+sport,Industry,voa_special_english
+spot,Visual,"globish, upgoer5"
+spread,Agriculture,"globish, voa_special_english"
+spring,Nature,"globish, ogdens_basic_english, voa_special_english"
+spy,People,"globish, voa_special_english"
+square,Mathematics,"globish, ogdens_basic_english, voa_special_english"
+stab,War,voa_special_english
+stage,Education,"globish, ogdens_basic_english"
+stair,Buildings,upgoer5
+stairs,Buildings,globish
+stamp,Business,"globish, ogdens_basic_english"
+stand,Direction,"globish, upgoer5, voa_special_english"
+star,Nature,"globish, ogdens_basic_english, upgoer5, voa_special_english"
+stare,Visual,upgoer5
+start,Time,"globish, ogdens_basic_english, upgoer5, voa_special_english"
+starve,Food/Drink,"globish, voa_special_english"
+state,Political,"globish, upgoer5, voa_special_english"
+statement,Education,ogdens_basic_english
+station,Transport,"globish, ogdens_basic_english, voa_special_english"
+statue,Visual,voa_special_english
+status,Political,globish
+stay,Time,"globish, upgoer5, voa_special_english"
+steal,Business,"globish, voa_special_english"
+steam,Industry,"globish, ogdens_basic_english, voa_special_english"
+steel,Materials,"globish, ogdens_basic_english, voa_special_english"
+stem,Education,ogdens_basic_english
+step,Direction,"globish, ogdens_basic_english, upgoer5, voa_special_english"
+stick,Tools,"globish, ogdens_basic_english, upgoer5, voa_special_english"
+stiff,Visual,ogdens_basic_english
+still,Time,"globish, ogdens_basic_english, upgoer5, voa_special_english"
+stitch,Clothes,ogdens_basic_english
+stocking,Clothes,ogdens_basic_english
+stomach,Body Parts,"globish, ogdens_basic_english, upgoer5"
+stone,Materials,"globish, ogdens_basic_english, voa_special_english"
+stood,Visual,upgoer5
+stop,Direction,"globish, ogdens_basic_english, upgoer5, voa_special_english"
+store,Business,"globish, ogdens_basic_english, upgoer5, voa_special_english"
+storm,Nature,"globish, voa_special_english"
+story,Education,"globish, ogdens_basic_english, upgoer5, voa_special_english"
+stove,Household,voa_special_english
+straight,Direction,"globish, ogdens_basic_english, upgoer5, voa_special_english"
+strange,Visual,"globish, ogdens_basic_english, upgoer5, voa_special_english"
+stream,Nature,globish
+street,Buildings,"globish, ogdens_basic_english, upgoer5, voa_special_english"
+stretch,Body Parts,"globish, ogdens_basic_english, voa_special_english"
+strike,Business,"globish, voa_special_english"
+string,Mathematics,globish
+strong,Visual,"globish, ogdens_basic_english, upgoer5, voa_special_english"
+structure,Industry,"globish, ogdens_basic_english, voa_special_english"
+struggle,War,"globish, upgoer5, voa_special_english"
+stuck,Visual,upgoer5
+student,Education,upgoer5
+study,Education,"globish, upgoer5, voa_special_english"
+stupid,People,"globish, upgoer5, voa_special_english"
+subject,Education,"globish, voa_special_english"
+submarine,Transport,voa_special_english
+substance,Materials,"globish, ogdens_basic_english, voa_special_english"
+substitute,Business,"globish, voa_special_english"
+subversion,Political,voa_special_english
+succeed,Business,"globish, voa_special_english"
+such,Visual,"globish, ogdens_basic_english, upgoer5, voa_special_english"
+suck,Body Parts,upgoer5
+sudden,Time,"globish, ogdens_basic_english, upgoer5, voa_special_english"
+suddenly,Time,upgoer5
+suffer,Body Parts,"globish, voa_special_english"
+sugar,Food/Drink,"globish, ogdens_basic_english, voa_special_english"
+suggest,Education,"globish, upgoer5, voa_special_english"
+suggestion,Education,ogdens_basic_english
+suicide,People,voa_special_english
+suit,Clothes,globish
+summer,Time,"globish, ogdens_basic_english, upgoer5, voa_special_english"
+sun,Nature,"globish, ogdens_basic_english, upgoer5, voa_special_english"
+supervise,Business,"globish, voa_special_english"
+supply,Business,"globish, voa_special_english"
+support,Business,"globish, ogdens_basic_english, voa_special_english"
+suppose,Education,"globish, upgoer5, voa_special_english"
+suppress,Political,"globish, voa_special_english"
+sure,Nature,"upgoer5, voa_special_english"
+surface,Nature,"globish, voa_special_english"
+surplus,Business,voa_special_english
+surprise,Visual,"globish, ogdens_basic_english, upgoer5, voa_special_english"
+surrender,War,voa_special_english
+surround,Visual,"globish, upgoer5, voa_special_english"
+survive,Nature,"globish, voa_special_english"
+suspect,People,"globish, voa_special_english"
+suspend,Education,"globish, voa_special_english"
+swallow,Animals,"globish, voa_special_english"
+swear,People,globish
+swear in,Political,voa_special_english
+sweet,Food/Drink,"globish, ogdens_basic_english, upgoer5, voa_special_english"
+swim,Nature,"globish, ogdens_basic_english, voa_special_english"
+symbol,Mathematics,globish
+sympathy,People,"globish, voa_special_english"
+system,Business,"globish, ogdens_basic_english, voa_special_english"
+table,Household,"globish, ogdens_basic_english, upgoer5"
+tail,Body Parts,"globish, ogdens_basic_english"
+take,Agriculture,"globish, ogdens_basic_english, upgoer5"
+taken,Time,upgoer5
+talk,People,"globish, ogdens_basic_english, upgoer5, voa_special_english"
+tall,Visual,"globish, ogdens_basic_english, upgoer5, voa_special_english"
+tank,War,voa_special_english
+target,War,"globish, voa_special_english"
+task,Business,globish
+taste,Food/Drink,"globish, ogdens_basic_english, voa_special_english"
+tax,Business,"globish, ogdens_basic_english, voa_special_english"
+tea,Food/Drink,"globish, voa_special_english"
+teach,Education,"globish, voa_special_english"
+teacher,Education,upgoer5
+teaching,Education,ogdens_basic_english
+team,People,"globish, upgoer5, voa_special_english"
+tear,Body Parts,"globish, upgoer5, voa_special_english"
+technical,Education,voa_special_english
+technology,Industry,voa_special_english
+teeth,Body Parts,upgoer5
+telephone,Household,voa_special_english
+telescope,Visual,voa_special_english
+television,Visual,voa_special_english
+tell,People,"globish, voa_special_english"
+temperature,Nature,voa_special_english
+temporary,Time,voa_special_english
+ten,Mathematics,upgoer5
+tendency,Mathematics,ogdens_basic_english
+tense,Time,voa_special_english
+term,Business,"globish, voa_special_english"
+terrible,Visual,"globish, voa_special_english"
+territory,Political,"globish, voa_special_english"
+terror,Political,"globish, voa_special_english"
+terrorist,War,voa_special_english
+test,Education,"globish, ogdens_basic_english, voa_special_english"
+than,Mathematics,"globish, ogdens_basic_english, upgoer5, voa_special_english"
+thank,People,"globish, upgoer5, voa_special_english"
+that,Mathematics,"ogdens_basic_english, voa_special_english"
+the,Nature,"globish, ogdens_basic_english, upgoer5, voa_special_english"
+theater,Buildings,"globish, voa_special_english"
+their,People,upgoer5
+theirs,People,globish
+them,People,"globish, upgoer5, voa_special_english"
+themselves,People,upgoer5
+then,Time,"globish, ogdens_basic_english, upgoer5, voa_special_english"
+theory,Education,"globish, ogdens_basic_english, voa_special_english"
+there,Direction,"globish, ogdens_basic_english, upgoer5, voa_special_english"
+there's,Nature,upgoer5
+these,Visual,"globish, upgoer5"
+they,People,"globish, upgoer5, voa_special_english"
+they'd,People,upgoer5
+thick,Visual,"globish, ogdens_basic_english, upgoer5, voa_special_english"
+thin,Visual,"globish, ogdens_basic_english, voa_special_english"
+thing,Nature,"globish, ogdens_basic_english, upgoer5, voa_special_english"
+think,Education,"globish, upgoer5, voa_special_english"
+third,Mathematics,"globish, voa_special_english"
+this,Direction,"globish, ogdens_basic_english, upgoer5, voa_special_english"
+those,Mathematics,"globish, upgoer5"
+though,Education,globish
+thought,Education,"globish, ogdens_basic_english, upgoer5"
+thread,Materials,ogdens_basic_english
+threaten,War,"globish, voa_special_english"
+three,Mathematics,upgoer5
+threw,Visual,upgoer5
+throat,Body Parts,"ogdens_basic_english, upgoer5"
+through,Direction,"globish, ogdens_basic_english, upgoer5, voa_special_english"
+throw,Direction,"globish, upgoer5, voa_special_english"
+thumb,Body Parts,ogdens_basic_english
+thunder,Nature,ogdens_basic_english
+thus,Mathematics,globish
+ticket,Business,ogdens_basic_english
+tie,Clothes,"globish, upgoer5, voa_special_english"
+tight,Visual,"globish, ogdens_basic_english, upgoer5"
+till,Time,ogdens_basic_english
+time,Time,"globish, ogdens_basic_english, upgoer5, voa_special_english"
+tin,Materials,"globish, ogdens_basic_english"
+tiny,Visual,"globish, upgoer5"
+tire,Transport,"globish, upgoer5"
+tired,Body Parts,"ogdens_basic_english, voa_special_english"
+title,Education,globish
+to,Direction,"globish, ogdens_basic_english, upgoer5, voa_special_english"
+today,Time,"globish, upgoer5, voa_special_english"
+toe,Body Parts,ogdens_basic_english
+together,Mathematics,"globish, ogdens_basic_english, upgoer5, voa_special_english"
+told,People,upgoer5
+tomorrow,Time,"globish, ogdens_basic_english, upgoer5, voa_special_english"
+tone,Body Parts,"globish, upgoer5"
+tongue,Body Parts,"globish, ogdens_basic_english, upgoer5"
+tonight,Time,"globish, voa_special_english"
+too,Mathematics,"globish, upgoer5, voa_special_english"
+took,Time,upgoer5
+tool,Tools,"globish, voa_special_english"
+tooth,Body Parts,"globish, ogdens_basic_english"
+top,Direction,"globish, ogdens_basic_english, upgoer5, voa_special_english"
+torture,Political,voa_special_english
+total,Mathematics,"globish, voa_special_english"
+totally,Visual,upgoer5
+touch,Body Parts,"globish, ogdens_basic_english, voa_special_english"
+toward,Direction,"globish, upgoer5, voa_special_english"
+town,Buildings,"globish, ogdens_basic_english, voa_special_english"
+track,Transport,"globish, upgoer5"
+trade,Business,"globish, ogdens_basic_english, voa_special_english"
+tradition,Education,"globish, voa_special_english"
+traffic,Transport,"globish, voa_special_english"
+tragic,People,voa_special_english
+train,Transport,"globish, ogdens_basic_english, voa_special_english"
+transport,Transport,"ogdens_basic_english, voa_special_english"
+transport*,Transport,globish
+transportation,Transport,voa_special_english
+trap,Agriculture,voa_special_english
+travel,Business,"globish, voa_special_english"
+tray,Household,ogdens_basic_english
+treason,Political,"globish, voa_special_english"
+treasure,Business,"globish, voa_special_english"
+treat,Agriculture,voa_special_english
+treatment,People,voa_special_english
+treaty,Political,"globish, voa_special_english"
+tree,Nature,"globish, ogdens_basic_english, voa_special_english"
+trial,Political,voa_special_english
+tribe,People,"globish, voa_special_english"
+trick,Visual,"globish, ogdens_basic_english, voa_special_english"
+trip,Transport,"globish, upgoer5, voa_special_english"
+troop,War,globish
+troops,War,voa_special_english
+trouble,Political,"globish, ogdens_basic_english, upgoer5, voa_special_english"
+trousers,Clothes,ogdens_basic_english
+truce,War,voa_special_english
+truck,Transport,"globish, voa_special_english"
+trust,Business,"globish, upgoer5, voa_special_english"
+truth,Education,upgoer5
+try,Business,"globish, upgoer5, voa_special_english"
+tube,Mathematics,"globish, voa_special_english"
+turn,Direction,"globish, ogdens_basic_english, upgoer5, voa_special_english"
+twenty,Mathematics,upgoer5
+twice,Mathematics,globish
+twist,Visual,ogdens_basic_english
+two,Mathematics,upgoer5
+type,Nature,upgoer5
+umbrella,Household,ogdens_basic_english
+under,Direction,"globish, ogdens_basic_english, voa_special_english"
+understand,Education,"globish, upgoer5, voa_special_english"
+unit,Mathematics,"globish, ogdens_basic_english"
+unite,Political,voa_special_english
+universe,Nature,"globish, voa_special_english"
+university,Education,voa_special_english
+unless,Education,globish
+until,Time,"globish, upgoer5, voa_special_english"
+up,Direction,"globish, ogdens_basic_english, upgoer5, voa_special_english"
+upon,Direction,"globish, upgoer5"
+urge,People,"globish, voa_special_english"
+urgent,Time,voa_special_english
+us,People,"globish, upgoer5, voa_special_english"
+use,Business,"globish, ogdens_basic_english, upgoer5, voa_special_english"
+usual,Time,"upgoer5, voa_special_english"
+usually,Time,upgoer5
+vacation,Time,voa_special_english
+vaccine,Nature,voa_special_english
+valley,Nature,"globish, voa_special_english"
+value,Mathematics,"globish, ogdens_basic_english, voa_special_english"
+vary,Mathematics,globish
+vegetable,Agriculture,"globish, voa_special_english"
+vehicle,Transport,"globish, voa_special_english"
+verse,Education,ogdens_basic_english
+version,Business,"globish, voa_special_english"
+very,Visual,"globish, ogdens_basic_english, upgoer5, voa_special_english"
+vessel,Transport,ogdens_basic_english
+veto,Political,"globish, voa_special_english"
+vicious,People,globish
+victim,People,"globish, voa_special_english"
+victory,War,"globish, voa_special_english"
+video,Visual,voa_special_english
+view,Visual,"globish, ogdens_basic_english"
+village,Buildings,voa_special_english
+violate,Political,voa_special_english
+violence,War,"globish, voa_special_english"
+violent,War,ogdens_basic_english
+visa,Political,voa_special_english
+visit,Time,"globish, upgoer5, voa_special_english"
+voice,Body Parts,"globish, ogdens_basic_english, upgoer5, voa_special_english"
+volcano,Nature,voa_special_english
+volume,Mathematics,globish
+volunteer,People,voa_special_english
+vote,Political,"globish, voa_special_english"
+wage,Business,globish
+wages,Business,voa_special_english
+wait,Time,"globish, upgoer5, voa_special_english"
+waiting,Time,ogdens_basic_english
+wake,Time,upgoer5
+walk,Direction,"globish, ogdens_basic_english, upgoer5, voa_special_english"
+wall,Buildings,"globish, ogdens_basic_english, upgoer5, voa_special_english"
+want,People,"globish, upgoer5, voa_special_english"
+war,War,"globish, ogdens_basic_english, voa_special_english"
+warm,Nature,"globish, ogdens_basic_english, upgoer5, voa_special_english"
+warn,War,"globish, upgoer5, voa_special_english"
+wash,Household,"globish, ogdens_basic_english, voa_special_english"
+wasn't,Time,upgoer5
+waste,Household,"globish, ogdens_basic_english, voa_special_english"
+watch,Visual,"globish, ogdens_basic_english, upgoer5, voa_special_english"
+water,Food/Drink,"globish, ogdens_basic_english, upgoer5, voa_special_english"
+wave,Nature,"globish, ogdens_basic_english, upgoer5, voa_special_english"
+wax,Materials,ogdens_basic_english
+way,Direction,"globish, ogdens_basic_english, upgoer5, voa_special_english"
+we,People,"globish, upgoer5, voa_special_english"
+we'll,People,upgoer5
+we're,People,upgoer5
+we've,People,upgoer5
+weak,People,"globish, voa_special_english"
+wealth,Business,"globish, voa_special_english"
+weapon,War,"globish, voa_special_english"
+wear,Clothes,"globish, upgoer5, voa_special_english"
+weather,Nature,"globish, ogdens_basic_english, voa_special_english"
+week,Time,"globish, ogdens_basic_english, voa_special_english"
+weigh,Agriculture,voa_special_english
+weight,Mathematics,"globish, ogdens_basic_english"
+weird,Visual,upgoer5
+welcome,People,"globish, voa_special_english"
+well,Nature,"globish, ogdens_basic_english, upgoer5, voa_special_english"
+went,Direction,upgoer5
+were,Time,upgoer5
+weren't,Time,upgoer5
+west,Direction,"globish, ogdens_basic_english, voa_special_english"
+wet,Nature,"globish, ogdens_basic_english, upgoer5, voa_special_english"
+what,Mathematics,globish
+whatever,Nature,upgoer5
+wheat,Agriculture,"globish, voa_special_english"
+wheel,Transport,"globish, ogdens_basic_english, voa_special_english"
+when,Time,"globish, ogdens_basic_english, upgoer5, voa_special_english"
+where,Direction,"globish, ogdens_basic_english, upgoer5, voa_special_english"
+whether,Education,"globish, upgoer5"
+which,Mathematics,globish
+while,Time,"globish, ogdens_basic_english, upgoer5, voa_special_english"
+whip,Tools,ogdens_basic_english
+whistle,Nature,ogdens_basic_english
+white,Color,"globish, ogdens_basic_english, upgoer5, voa_special_english"
+who,People,"globish, ogdens_basic_english, upgoer5, voa_special_english"
+whole,Mathematics,"globish, upgoer5, voa_special_english"
+why,Education,"globish, ogdens_basic_english, upgoer5, voa_special_english"
+wide,Visual,"globish, ogdens_basic_english, voa_special_english"
+wife,People,"globish, voa_special_english"
+wild,Nature,"globish, voa_special_english"
+will,Time,"globish, ogdens_basic_english, voa_special_english"
+willing,People,voa_special_english
+win,Political,"globish, voa_special_english"
+wind,Nature,"globish, ogdens_basic_english, voa_special_english"
+window,Buildings,"globish, ogdens_basic_english, upgoer5, voa_special_english"
+wine,Food/Drink,"globish, ogdens_basic_english"
+wing,Animals,"globish, ogdens_basic_english"
+winter,Time,"globish, ogdens_basic_english, voa_special_english"
+wipe,Household,upgoer5
+wire,Materials,"globish, ogdens_basic_english, voa_special_english"
+wise,Agriculture,"globish, ogdens_basic_english, voa_special_english"
+wish,People,"globish, upgoer5, voa_special_english"
+with,Direction,"ogdens_basic_english, upgoer5"
+withdraw,Business,"globish, voa_special_english"
+within,Direction,upgoer5
+without,Direction,"globish, upgoer5, voa_special_english"
+witness,People,voa_special_english
+woke,Political,upgoer5
+woman,People,"globish, ogdens_basic_english, upgoer5, voa_special_english"
+women,People,upgoer5
+wonder,Visual,"globish, upgoer5, voa_special_english"
+wonderful,Visual,voa_special_english
+wood,Materials,"globish, ogdens_basic_english, upgoer5, voa_special_english"
+wool,Materials,"globish, ogdens_basic_english"
+word,Agriculture,"globish, ogdens_basic_english, upgoer5, voa_special_english"
+wore,Clothes,upgoer5
+work,Business,"globish, ogdens_basic_english, upgoer5, voa_special_english"
+world,Nature,"globish, upgoer5, voa_special_english"
+worm,Animals,ogdens_basic_english
+worry,People,"globish, upgoer5, voa_special_english"
+worse,Visual,"globish, upgoer5, voa_special_english"
+worth,Business,"globish, voa_special_english"
+wound,Body Parts,"globish, ogdens_basic_english, voa_special_english"
+wow,Visual,upgoer5
+wrap,Clothes,upgoer5
+wreck,Transport,"globish, voa_special_english"
+wreckage,Transport,voa_special_english
+write,Education,"globish, upgoer5, voa_special_english"
+writing,Education,ogdens_basic_english
+wrong,Education,"globish, ogdens_basic_english, upgoer5, voa_special_english"
+yard,Household,globish
+yeah,People,upgoer5
+year,Time,"globish, ogdens_basic_english, upgoer5, voa_special_english"
+yell,Visual,upgoer5
+yellow,Color,"globish, ogdens_basic_english, voa_special_english"
+yes,Education,"globish, ogdens_basic_english, upgoer5, voa_special_english"
+yesterday,Time,"globish, ogdens_basic_english, voa_special_english"
+yet,Time,"globish, upgoer5, voa_special_english"
+you,People,"globish, ogdens_basic_english, voa_special_english"
+you'd,People,upgoer5
+you'll,People,upgoer5
+you're,People,upgoer5
+you've,People,upgoer5
+young,People,"globish, ogdens_basic_english, upgoer5, voa_special_english"
+your,People,upgoer5
+yours,People,globish
+yourself,People,upgoer5
+zero,Mathematics,voa_special_english
+zoo,Buildings,voa_special_english

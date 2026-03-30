@@ -1,0 +1,1000 @@
+animal,Animals
+dog,Animals
+cat,Animals
+fly,Animals
+horse,Animals
+arm,Body Parts
+breath,Body Parts
+ear,Body Parts
+eye,Body Parts
+eyebrow,Body Parts
+feet,Body Parts
+foot,Body Parts
+gasp,Body Parts
+hear,Body Parts
+kick,Body Parts
+leg,Body Parts
+lip,Body Parts
+mind,Body Parts
+piss,Body Parts
+shit,Body Parts
+tear,Body Parts
+voice,Body Parts
+breathe,Body Parts
+nod,Body Parts
+sigh,Body Parts
+ass,Body Parts
+body,Body Parts
+brain,Body Parts
+cheek,Body Parts
+chest,Body Parts
+hand,Body Parts
+heart,Body Parts
+knee,Body Parts
+nervous,Body Parts
+nose,Body Parts
+rub,Body Parts
+shoulder,Body Parts
+skin,Body Parts
+stomach,Body Parts
+teeth,Body Parts
+bite,Body Parts
+blood,Body Parts
+feel,Body Parts
+groan,Body Parts
+hurt,Body Parts
+mouth,Body Parts
+neck,Body Parts
+pain,Body Parts
+tongue,Body Parts
+fit,Body Parts
+part,Body Parts
+thought,Body Parts
+tone,Body Parts
+cell,Body Parts
+face,Body Parts
+finger,Body Parts
+giggle,Body Parts
+hair,Body Parts
+head,Body Parts
+jerk,Body Parts
+kiss,Body Parts
+memory,Body Parts
+sick,Body Parts
+sit,Body Parts
+sleep,Body Parts
+smell,Body Parts
+suck,Body Parts
+throat,Body Parts
+street,Buildings
+city,Buildings
+hallway,Buildings
+hospital,Buildings
+stair,Buildings
+wall,Buildings
+room,Buildings
+bar,Buildings
+apartment,Buildings
+home,Buildings
+house,Buildings
+business,Business
+call,Business
+job,Business
+money,Business
+office,Business
+plan,Business
+situation,Business
+brought,Business
+busy,Business
+buy,Business
+case,Business
+control,Business
+manage,Business
+offer,Business
+save,Business
+spent,Business
+trust,Business
+interest,Business
+promise,Business
+share,Business
+spend,Business
+store,Business
+work,Business
+pack,Business
+game,Business
+accept,Business
+deal,Business
+free,Business
+pay,Business
+press,Business
+shop,Business
+clothes,Clothes
+pocket,Clothes
+shirt,Clothes
+tie,Clothes
+jeans,Clothes
+shoe,Clothes
+wear,Clothes
+wore,Clothes
+dress,Clothes
+jacket,Clothes
+pants,Clothes
+wrap,Clothes
+black,Color
+brown,Color
+pink,Color
+white,Color
+blue,Color
+blush,Color
+green,Color
+color,Color
+grey,Color
+red,Color
+lean,Direction
+chase,Direction
+direction,Direction
+down,Direction
+drag,Direction
+drop,Direction
+in,Direction
+out,Direction
+outside,Direction
+over,Direction
+pull,Direction
+roll,Direction
+send,Direction
+shove,Direction
+stay,Direction
+step,Direction
+stop,Direction
+straight,Direction
+to,Direction
+toward,Direction
+up,Direction
+either,Direction
+together,Direction
+where,Direction
+else,Direction
+arrive,Direction
+above,Direction
+along,Direction
+between,Direction
+climb,Direction
+forward,Direction
+further,Direction
+go,Direction
+here,Direction
+into,Direction
+lift,Direction
+near,Direction
+pass,Direction
+position,Direction
+reach,Direction
+right,Direction
+run,Direction
+sat,Direction
+sent,Direction
+shift,Direction
+start,Direction
+surround,Direction
+back,Direction
+return,Direction
+ahead,Direction
+approach,Direction
+beside,Direction
+bottom,Direction
+cross,Direction
+enter,Direction
+far,Direction
+leave,Direction
+low,Direction
+move,Direction
+off,Direction
+onto,Direction
+side,Direction
+there,Direction
+through,Direction
+turn,Direction
+escape,Direction
+anyway,Direction
+upon,Direction
+avoid,Direction
+across,Direction
+against,Direction
+around,Direction
+away,Direction
+begin,Direction
+behind,Direction
+besides,Direction
+close,Direction
+edge,Direction
+flip,Direction
+follow,Direction
+from,Direction
+front,Direction
+inside,Direction
+left,Direction
+lost,Direction
+middle,Direction
+on,Direction
+order,Direction
+push,Direction
+put,Direction
+raise,Direction
+ran,Direction
+somewhere,Direction
+stand,Direction
+throw,Direction
+top,Direction
+way,Direction
+went,Direction
+within,Direction
+admit,Education
+answer,Education
+college,Education
+music,Education
+read,Education
+understand,Education
+truth,Education
+because,Education
+suggest,Education
+decide,Education
+important,Education
+knew,Education
+know,Education
+letter,Education
+problem,Education
+question,Education
+school,Education
+simply,Education
+study,Education
+class,Education
+fact,Education
+idea,Education
+learn,Education
+spoke,Education
+easy,Education
+ask,Education
+course,Education
+explain,Education
+known,Education
+note,Education
+story,Education
+student,Education
+suppose,Education
+teacher,Education
+write,Education
+breakfast,Food/Drink
+food,Food/Drink
+dinner,Food/Drink
+eat,Food/Drink
+drink,Food/Drink
+lunch,Food/Drink
+water,Food/Drink
+coffee,Food/Drink
+sweet,Food/Drink
+hall,Household
+book,Household
+ball,Household
+bed,Household
+bell,Household
+couch,Household
+door,Household
+kitchen,Household
+locker,Household
+handle,Household
+bag,Household
+bedroom,Household
+box,Household
+can,Household
+desk,Household
+floor,Household
+phone,Household
+settle,Household
+chair,Household
+cup,Household
+lock,Household
+ring,Household
+shower,Household
+window,Household
+bathroom,Household
+bottle,Household
+brush,Household
+card,Household
+clean,Household
+mirror,Household
+seat,Household
+table,Household
+wipe,Household
+empty,I do not have enough information to answer the query. The spreadsheet cell provided is empty. Please provide a word or phrase to categorize.
+aren't,"I do not have enough information to answer the query. The term ""aren't"" is a contraction of ""are not"" and does not clearly fit into any of the provided categories (Color, Visual, Direction, Time, Animals, Food/Drink, Household, Clothes, Tools, Buildings, People, Body Parts, Materials, Transport, Business, Industry, Education, Political, War, Agriculture, Nature, Mathematics). Please provide a different word or specify a category for general grammar/abstract terms."
+none,"I do not have enough information to answer the query. The value provided (""none"") does not contain enough context to be categorized into the specific list of categories provided. Please provide a descriptive word or phrase to categorize."
+can't,"I do not have enough information to answer the query. The word ""can't"" does not fit into any of the provided categories (Color, Visual, Direction, Time, Animals, Food/Drink, Household, Clothes, Tools, Buildings, People, Body Parts, Materials, Transport, Business, Industry, Education, Political, War, Agriculture, Nature, or Mathematics). Please provide a list of categories that includes parts of speech or abstract concepts."
+doesn't,"I do not have enough information to answer the query. The word ""doesn't"" does not clearly fit into any of the provided categories (Color, Visual, Direction, Time, Animals, Food/Drink, Household, Clothes, Tools, Buildings, People, Body Parts, Materials, Transport, Business, Industry, Education, Political, War, Agriculture, Nature, Mathematics). Please provide a word that relates to one of these categories."
+for,"I do not have enough information to answer the query. The word ""for"" is a preposition and does not clearly fit into any of the provided categories like Color, Animals, or Nature. Please provide a different word or more context."
+ignore,"I do not have enough information to answer the query. The word ""ignore"" does not clearly fit into any of the provided categories: Color, Visual, Direction, Time, Animals, Food/Drink, Household, Clothes, Tools, Buildings, People, Body Parts, Materials, Transport, Business, Industry, Education, Political, War, Agriculture, Nature, or Mathematics."
+it's,"I do not have enough information to answer the query. The word ""it's"" does not clearly fit into any of the provided categories. Please provide a different word or more context."
+which,"I do not have enough information to answer the query. The word ""which"" does not fit into any of the provided categories (Color, Visual, Direction, Time, Animals, Food/Drink, Household, Clothes, Tools, Buildings, People, Body Parts, Materials, Transport, Business, Industry, Education, Political, War, Agriculture, Nature, or Mathematics)."
+instead,I do not have enough information to answer the query. The word instead does not fit into any of the provided categories. Please provide a different word or a broader list of categories.
+fuck,"I do not have enough information to answer the query. The word provided is a profanity and does not fit into any of the specified categories (Color, Visual, Direction, Time, Animals, Food/Drink, Household, Clothes, Tools, Buildings, People, Body Parts, Materials, Transport, Business, Industry, Education, Political, War, Agriculture, Nature, Mathematics). Please provide a different word to categorize."
+though,"I do not have enough information to answer the query. The word though does not fit into any of the provided categories: Color, Visual, Direction, Time, Animals, Food/Drink, Household, Clothes, Tools, Buildings, People, Body Parts, Materials, Transport, Business, Industry, Education, Political, War, Agriculture, Nature, or Mathematics."
+what,I do not have enough information to answer the query. The word what is a pronoun/adverb and does not fit into any of the provided categories.
+actually,"I do not have enough information to categorize ""actually"" into the provided categories. This word is an adverb used for emphasis or to denote reality and does not fit into concrete categories such as Color, Animals, Food/Drink, or the others listed."
+easily,"I do not have enough information to categorize the word ""easily"" as it does not fit into any of the provided categories: Color, Visual, Direction, Time, Animals, Food/Drink, Household, Clothes, Tools, Buildings, People, Body Parts, Materials, Transport, Business, Industry, Education, Political, War, Agriculture, Nature, or Mathematics."
+has,"I do not have enough information to categorize the word ""has"" into the provided categories, as it is a general verb that does not specifically pertain to any of the listed topics such as Animals, Nature, or Mathematics."
+not,"I do not have enough information to categorize the word ""not"" into the provided categories. None of the categories (Color, Visual, Direction, Time, Animals, Food/Drink, Household, Clothes, Tools, Buildings, People, Body Parts, Materials, Transport, Business, Industry, Education, Political, War, Agriculture, Nature, or Mathematics) are a suitable match for a logical negation or function word like ""not."""
+was,"I do not have enough information to categorize the word ""was"" into the provided categories. It is a verb indicating a state of being in the past and does not clearly fit into specific semantic groups such as Color, Animals, or Tools."
+build,Industry
+make,Industry
+power,Industry
+broke,Industry
+made,Industry
+mine,Industry
+glass,Materials
+lead,Materials
+hard,Materials
+piece,Materials
+block,Materials
+matter,Materials
+wood,Materials
+felt,Materials
+paper,Materials
+join,Mathematics
+both,Mathematics
+few,Mathematics
+more,Mathematics
+seven,Mathematics
+sort,Mathematics
+than,Mathematics
+three,Mathematics
+too,Mathematics
+two,Mathematics
+whole,Mathematics
+why,Mathematics
+chance,Mathematics
+each,Mathematics
+even,Mathematics
+exactly,Mathematics
+five,Mathematics
+pair,Mathematics
+probably,Mathematics
+reason,Mathematics
+add,Mathematics
+area,Mathematics
+bit,Mathematics
+enough,Mathematics
+four,Mathematics
+half,Mathematics
+hundred,Mathematics
+least,Mathematics
+less,Mathematics
+nearly,Mathematics
+one,Mathematics
+six,Mathematics
+twenty,Mathematics
+except,Mathematics
+counter,Mathematics
+lot,Mathematics
+many,Mathematics
+match,Mathematics
+mean,Mathematics
+most,Mathematics
+much,Mathematics
+number,Mathematics
+only,Mathematics
+several,Mathematics
+single,Mathematics
+some,Mathematics
+ten,Mathematics
+TRUE,Mathematics
+or,Nature
+type,Nature
+something,Nature
+is,Nature
+everything,Nature
+bore,Nature
+any,Nature
+force,Nature
+possible,Nature
+air,Nature
+calm,Nature
+death,Nature
+dry,Nature
+grow,Nature
+park,Nature
+quite,Nature
+rain,Nature
+rose,Nature
+safe,Nature
+stick,Nature
+thing,Nature
+warm,Nature
+world,Nature
+does,Nature
+there's,Nature
+be,Nature
+cause,Nature
+also,Nature
+keep,Nature
+barely,Nature
+alone,Nature
+an,Nature
+as,Nature
+but,Nature
+deep,Nature
+entire,Nature
+fall,Nature
+fell,Nature
+field,Nature
+hot,Nature
+ice,Nature
+it,Nature
+its,Nature
+kind,Nature
+life,Nature
+live,Nature
+love,Nature
+nothing,Nature
+other,Nature
+quiet,Nature
+rang,Nature
+relax,Nature
+rock,Nature
+sky,Nature
+smoke,Nature
+space,Nature
+strong,Nature
+well,Nature
+with,Nature
+real,Nature
+so,Nature
+song,Nature
+word,Nature
+ah,Nature
+all,Nature
+somehow,Nature
+a,Nature
+practically,Nature
+anything,Nature
+burn,Nature
+fire,Nature
+shock,Nature
+silence,Nature
+wave,Nature
+wet,Nature
+sure,Nature
+whatever,Nature
+whether,Nature
+such,Nature
+the,Nature
+mood,Nature
+normal,Nature
+although,Nature
+at,Nature
+become,Nature
+cold,Nature
+crack,Nature
+dead,Nature
+fault,Nature
+fill,Nature
+ground,Nature
+have,Nature
+hope,Nature
+if,Nature
+land,Nature
+lie,Nature
+no,Nature
+noise,Nature
+place,Nature
+pop,Nature
+star,Nature
+sun,Nature
+wish,Nature
+without,Nature
+rather,None
+get,None
+got,None of the categories apply
+hadn't,None of the categories apply
+would,None of the categories apply
+won't,None of the categories apply
+didn't,None of the categories apply
+that,None of these categories apply
+and,Noneof the Above
+shouldn't,Not Applicable
+perhaps,Not Categorized
+of,Not Categorized
+alright,Not Categorized
+haven't,Not Categorized
+isn't,Not Categorized
+must,Not Categorized
+don't,Not Categorized
+that's,Not Categorized
+by,Other
+mention,People
+respond,People
+need,People
+I've,People
+anger,People
+please,People
+aunt,People
+boy,People
+care,People
+child,People
+dear,People
+family,People
+favorite,People
+fear,People
+group,People
+her,People
+hug,People
+human,People
+I'll,People
+mutter,People
+people,People
+police,People
+speak,People
+thank,People
+we,People
+we're,People
+you're,People
+act,People
+say,People
+talk,People
+annoy,People
+believe,People
+brother,People
+children,People
+comment,People
+dad,People
+doctor,People
+father,People
+gave,People
+girlfriend,People
+God,People
+he's,People
+herself,People
+himself,People
+his,People
+I'm,People
+might,People
+Mr.,People
+name,People
+oh,People
+our,People
+reply,People
+said,People
+she,People
+she'd,People
+sister,People
+son,People
+sorry,People
+team,People
+their,People
+they,People
+told,People
+we'll,People
+women,People
+your,People
+concern,People
+joke,People
+own,People
+do,People
+hate,People
+able,People
+angry,People
+are,People
+bother,People
+boyfriend,People
+conversation,People
+crowd,People
+friend,People
+guard,People
+he,People
+he'd,People
+hello,People
+help,People
+hi,People
+I'd,People
+laugh,People
+me,People
+mom,People
+mother,People
+Mrs.,People
+mumble,People
+my,People
+serious,People
+she's,People
+sir,People
+someone,People
+stupid,People
+them,People
+themselves,People
+they'd,People
+us,People
+we've,People
+who,People
+woman,People
+worry,People
+you'll,People
+yourself,People
+blonde,People
+exclaim,People
+glad,People
+those,People
+afraid,People
+anyone,People
+attempt,People
+baby,People
+couple,People
+crazy,People
+cry,People
+damn,People
+daughter,People
+enjoy,People
+everyone,People
+excuse,People
+girl,People
+greet,People
+guy,People
+hey,People
+him,People
+I,People
+kid,People
+lady,People
+listen,People
+mad,People
+man,People
+marry,People
+meet,People
+men,People
+met,People
+miss,People
+mum,People
+myself,People
+parents,People
+person,People
+race,People
+relationship,People
+self,People
+want,People
+yeah,People
+you'd,People
+you've,People
+bring,Physical Movement
+scare,Political
+state,Political
+agree,Political
+party,Political
+allow,Political
+woke,Political
+hell,Religion
+stuff,Something went wrong. Try again.
+tell,Something went wrong. Try again.
+they're,Something went wrong. Try again.
+third,Something went wrong. Try again.
+tonight,Something went wrong. Try again.
+touch,Something went wrong. Try again.
+town,Something went wrong. Try again.
+trail,Something went wrong. Try again.
+train,Something went wrong. Try again.
+tree,Something went wrong. Try again.
+TV,Something went wrong. Try again.
+uncle,Something went wrong. Try again.
+under,Something went wrong. Try again.
+week,Something went wrong. Try again.
+what's,Something went wrong. Try again.
+whisper,Something went wrong. Try again.
+wide,Something went wrong. Try again.
+wife,Something went wrong. Try again.
+will,Something went wrong. Try again.
+wind,Something went wrong. Try again.
+wouldn't,Something went wrong. Try again.
+you,Something went wrong. Try again.
+should,"The word ""should"" does not fit into any of the provided categories (Color, Visual, Direction, Time, Animals, Food/Drink, Household, Clothes, Tools, Buildings, People, Body Parts, Materials, Transport, Business, Industry, Education, Political, War, Agriculture, Nature, or Mathematics) as it is a modal verb rather than a noun or a category-specific descriptor."
+meant,"The word meant is the past tense of mean. While mean can refer to an average in Mathematics, as a verb signifying intention or definition, it does not clearly fit into any of the provided categories. The closest thematic category for human intention or linguistic meaning would be People or Education, but neither is a direct fit."
+ready,Time
+let,Time
+forget,Time
+after,Time
+ago,Time
+already,Time
+became,Time
+before,Time
+began,Time
+break,Time
+complete,Time
+evening,Time
+every,Time
+gone,Time
+hour,Time
+hurry,Time
+kept,Time
+never,Time
+next,Time
+pause,Time
+repeat,Time
+rest,Time
+since,Time
+slowly,Time
+suddenly,Time
+tomorrow,Time
+took,Time
+short,Time
+couldn't,Time
+date,Time
+ever,Time
+finally,Time
+first,Time
+gonna,Time
+last,Time
+late,Time
+may,Time
+present,Time
+sometimes,Time
+soon,Time
+still,Time
+sudden,Time
+weren't,Time
+yet,Time
+end,Time
+however,Time
+about,Time
+afternoon,Time
+again,Time
+always,Time
+am,Time
+been,Time
+came,Time
+day,Time
+did,Time
+early,Time
+finish,Time
+happen,Time
+just,Time
+minute,Time
+morning,Time
+night,Time
+past,Time
+quickly,Time
+second,Time
+summer,Time
+then,Time
+time,Time
+until,Time
+usual,Time
+usually,Time
+wait,Time
+were,Time
+when,Time
+while,Time
+year,Time
+taken,Time
+age,Time
+almost,Time
+another,Time
+anymore,Time
+asleep,Time
+beat,Time
+change,Time
+continue,Time
+done,Time
+during,Time
+eventually,Time
+expect,Time
+given,Time
+gotten,Time
+had,Time
+immediately,Time
+interrupt,Time
+long,Time
+moment,Time
+month,Time
+new,Time
+now,Time
+often,Time
+old,Time
+once,Time
+remain,Time
+remember,Time
+remind,Time
+rush,Time
+slow,Time
+today,Time
+visit,Time
+wake,Time
+wasn't,Time
+young,Time
+fix,Tools
+punch,Tools
+saw,Tools
+grip,Tools
+die,Tools
+cut,Tools
+band,Tools
+computer,Tools
+key,Tools
+pick,Tools
+carry,Transport
+drive,Transport
+drove,Transport
+road,Transport
+track,Transport
+tire,Transport
+bus,Transport
+ride,Transport
+car,Transport
+trip,Transport
+consider,Visual
+excite,Visual
+notice,Visual
+come,Visual
+corner,Visual
+open,Visual
+threw,Visual
+realize,Visual
+really,Visual
+try,Visual
+watch,Visual
+definitely,Visual
+especially,Visual
+same,Visual
+surprise,Visual
+caught,Visual
+happy,Visual
+sad,Visual
+scream,Visual
+quick,Visual
+attention,Visual
+cute,Visual
+disappear,Visual
+draw,Visual
+heard,Visual
+heavy,Visual
+hide,Visual
+how,Visual
+huh,Visual
+large,Visual
+light,Visual
+seriously,Visual
+show,Visual
+spot,Visual
+take,Visual
+tall,Visual
+thick,Visual
+beautiful,Visual
+best,Visual
+big,Visual
+bright,Visual
+carefully,Visual
+clear,Visual
+cool,Visual
+dance,Visual
+dark,Visual
+expression,Visual
+figure,Visual
+found,Visual
+full,Visual
+fun,Visual
+gently,Visual
+glance,Visual
+hang,Visual
+hold,Visual
+huge,Visual
+hung,Visual
+jump,Visual
+lay,Visual
+like,Visual
+look,Visual
+mark,Visual
+maybe,Visual
+obviously,Visual
+okay,Visual
+paint,Visual
+perfect,Visual
+recognize,Visual
+seen,Visual
+sense,Visual
+shake,Visual
+shook,Visual
+shrug,Visual
+sight,Visual
+slam,Visual
+slightly,Visual
+slip,Visual
+smile,Visual
+stare,Visual
+stood,Visual
+strange,Visual
+totally,Visual
+check,Visual
+give,Visual
+think,Visual
+wrong,Visual
+cover,Visual
+knock,Visual
+shut,Visual
+line,Visual
+set,Visual
+quietly,Visual
+good,Visual
+wow,Visual
+yell,Visual
+catch,Visual
+trouble,Visual
+fast,Visual
+grab,Visual
+walk,Visual
+amaze,Visual
+apparently,Visual
+appear,Visual
+blink,Visual
+confuse,Visual
+different,Visual
+fine,Visual
+focus,Visual
+frown,Visual
+glare,Visual
+great,Visual
+held,Visual
+led,Visual
+little,Visual
+loud,Visual
+movie,Visual
+nice,Visual
+picture,Visual
+pretend,Visual
+round,Visual
+search,Visual
+see,Visual
+shadow,Visual
+this,Visual
+worse,Visual
+shot,Visual
+bad,Visual
+better,Visual
+broken,Visual
+burst,Visual
+chuckle,Visual
+completely,Visual
+could,Visual
+doubt,Visual
+dream,Visual
+find,Visual
+flash,Visual
+form,Visual
+funny,Visual
+gaze,Visual
+grin,Visual
+guess,Visual
+high,Visual
+hit,Visual
+imagine,Visual
+play,Visual
+point,Visual
+pretty,Visual
+seem,Visual
+shout,Visual
+sign,Visual
+silent,Visual
+small,Visual
+smirk,Visual
+snap,Visual
+soft,Visual
+softly,Visual
+sound,Visual
+stuck,Visual
+these,Visual
+tight,Visual
+tiny,Visual
+use,Visual
+very,Visual
+weird,Visual
+wonder,Visual
+yes,Visual
+attack,War
+fight,War
+kill,War
+struggle,War
+lose,War
+gun,War
+warn,War
