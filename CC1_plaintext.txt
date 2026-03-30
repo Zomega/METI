@@ -1,0 +1,69 @@
+#
+# CC1 Page 1 -- Numbers
+## Page Header
+$BINARY(1, 5) MATH
+## Defining numbers, binary, decimal and equals
+$NOTHING = $BINARY(0, 4) = ZERO / $PIPS(1) = $BINARY(1, 4) = ONE
+$PIPS(2) = $BINARY(2, 4) = TWO  / $PIPS(3) = $BINARY(3, 4) = THREE
+$PIPS(4) = $BINARY(4, 4) = FOUR / $PIPS(5) = $BINARY(5, 4) = FIVE
+$PIPS(6) = $BINARY(6, 6) = SIX  / $PIPS(7) = $BINARY(7, 4) = SEVEN
+$PIPS(8) = $BINARY(8, 4) = EIGHT / $PIPS(9) = $BINARY(9, 4) = NINE
+$PIPS(10) = $DECIMAL(10) / $PIPS(11) = $DECIMAL(11) / $PIPS(12) = $DECIMAL(12)
+$PIPS(14) = $DECIMAL(14) / $PIPS(15) = $DECIMAL(15) / $PIPS(20) = $DECIMAL(20)
+## Primes
+TWO          / THREE        / FIVE         / SEVEN        / $DECIMAL(11) / $DECIMAL(13) / $DECIMAL(17) / $DECIMAL(19)
+$DECIMAL(23) / $DECIMAL(29) / $DECIMAL(31) / $DECIMAL(37) / $DECIMAL(41) / $DECIMAL(43) / $DECIMAL(47) / $DECIMAL(53)
+$DECIMAL(59) / $DECIMAL(61) / $DECIMAL(67) / $DECIMAL(71) / $DECIMAL(73) / $DECIMAL(79) / $DECIMAL(83) / $DECIMAL(89)
+## Largest known prime (circa 1999)
+TWO ^ $DECIMAL(3021377) MINUS 1
+#
+# CC1 Page 2 -- Arithmetic, Ellipses
+## Page Header
+$BINARY(2, 5) MATH
+ONE PLUS ONE = TWO      / ONE MINUS ONE = ZERO    / ONE MULT ONE = ONE
+ONE PLUS TWO = THREE    / ONE MINUS TWO = NEG ONE / ONE MULT TWO = TWO
+THREE PLUS TWO = FIVE   / THREE MINUS TWO = ONE   / THREE MULT TWO = SIX
+FOUR PLUS THREE = SEVEN / FOUR MINUS THREE = ONE  / FOUR MULT THREE = $DECIMAL(12)
+ONE PLUS ZERO = ONE     / ONE MINUS ZERO = ONE    / ONE TIMES ZERO = ZERO
+# Division
+ONE DIV ONE   = ONE
+                                   ONE DIV THREE  = ZERO DPOINT THREE THREE THREE THREE ELLIPSES
+ONE DIV TWO   = ZERO DPOINT FIVE
+                                   FOUR DIV THREE = ONE DPOINT THREE THREE THREE THREE ELLIPSES
+THREE DIV TWO = ONE DPOINT FIVE
+                                   ONE DIV NINE   = ZERO DPOINT ONE ONE ONE ONE ELLIPSES
+ONE DIV ZERO = INF?                
+								   TWO DIV THREE  = ZERO DPOINT SIX SIX SIX SIX ELLIPSES
+ZERO DIV ONE = ZERO
+								   ONE DIV $DECIMAL(11)  = ZERO DPOINT ZERO NINE ZERO NINE ELLIPSES
+ZERO MINUS ONE = NEG ONE
+#
+# CC1 PAGE 3 -- Exponents
+
+
+# CC1 PAGE 4 -- Algebra, Functions, "What Is" Questions
+
+# CC1 PAGE 5 -- Geometry, Final Math Checks
+
+# CC1 PAGE 6 -- Atoms
+# CC1 PAGE 7 -- ???
+# CC1 PAGE 8 -- ??? Spectrum? Wavelength
+# CC1 PAGE 9 -- ???
+# CC1 PAGE 10 -- Tempature, Standard Pressure?
+# CC1 PAGE 11 -- Solar System
+# CC1 PAGE 12 -- Earth / Moon
+# CC1 PAGE 13 -- Orbits / Human Scale Time
+# CC1 PAGE 14 -- Surface of Earth
+# CC1 PAGE 15 -- Human Anatomy
+# CC1 PAGE 16 -- Human Perception?
+# CC1 PAGE 17 -- Building Blocks of DNA
+# CC1 PAGE 18 -- Biology / Cells / DNA ?
+# CC1 PAGE 19-20 -- Map of Earth
+# CC1 PAGE 21 -- Transmitted Details
+# CC1 PAGE 22 -- ???
+# CC1 PAGE 23 -- Questions for Recipient
+
+
+
+
+
