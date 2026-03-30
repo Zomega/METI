@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Arecibo Audio Decoder</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body class="crt-effect">
+    <div id="app">
+        <header>
+            <h1>ARECIBO_SIGNAL_DECODER</h1>
+            <p class="subtitle">M13_GLOBULAR_CLUSTER // 2380_MHZ // 1679_BITS</p>
+        </header>
+
+        <main>
+            <div id="display-container">
+                <div id="grid-viewport">
+                    <canvas id="decoder-grid"></canvas>
+                </div>
+                <div id="signal-monitor">
+                    <div id="bit-indicator"></div>
+                    <div id="scope-visualization"></div>
+                </div>
+            </div>
+
+            <div id="controls">
+                <div class="control-group">
+                    <label for="width-slider">GRID_WIDTH: <span id="width-value">23</span></label>
+                    <input type="range" id="width-slider" min="1" max="100" value="23">
+                </div>
+
+                <div class="control-group">
+                    <button id="play-btn">INITIATE_PLAYBACK</button>
+                    <button id="stop-btn">ABORT_SIGNAL</button>
+                </div>
+
+                <div class="control-group">
+                    <label for="speed-slider">BIT_RATE (ms): <span id="speed-value">100</span></label>
+                    <input type="range" id="speed-slider" min="10" max="1000" value="100">
+                </div>
+
+                <div id="status-panel">
+                    <div id="semiprime-alert" class="">SEMIPRIME_DETECTED</div>
+                    <div id="bit-counter">BIT: 0 / 1679</div>
+                </div>
+            </div>
+        </main>
+
+        <footer>
+            <p>SETI INSTITUTE // 1974 RECONSTRUCTION</p>
+        </footer>
+    </div>
+    <script src="app.js"></script>
+</body>
+</html>
