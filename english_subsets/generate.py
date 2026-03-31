@@ -38,32 +38,42 @@ tokenizer = AutoTokenizer.from_pretrained(model_name)
 class FinalLogitsProcessor(LogitsProcessor):
     def __init__(self, tokenizer, allowed_words):
         self.tokenizer = tokenizer
-        self.allowed_ids = set()
-        # Modern tokenizers (Llama) handle spaces differently (underscore char)
-        # We need to find every token ID that matches our words exactly.
+        # Pre-calculate all valid token IDs once
+        self.all_allowed_ids = {} # word_lower -> set of token_ids
+        
+        print("Pre-calculating token IDs for vocabulary...")
         for w in allowed_words:
+            w_lower = w.lower()
+            if w_lower not in self.all_allowed_ids:
+                self.all_allowed_ids[w_lower] = set()
+            
             for var in [w.lower(), w.capitalize(), w.upper()]:
-                # Try with and without leading space
                 for prefix in [" ", ""]:
-                    ids = tokenizer.encode(
-                        prefix + var, add_special_tokens=False)
-                    # ONLY allow if it's a single token (Strict Unit)
+                    ids = tokenizer.encode(prefix + var, add_special_tokens=False)
                     if len(ids) == 1:
-                        self.allowed_ids.add(ids[0])
+                        self.all_allowed_ids[w_lower].add(ids[0])
 
-        # Allow punctuation
+        # Base set of punctuation/special tokens
+        self.base_allowed_ids = set()
         for char in [".", ",", "!", "?", ";", ":", "\n", "(", ")", "-", '"', "'"]:
-            ids = tokenizer.encode(char, add_special_tokens=False)
-            self.allowed_ids.update(ids)
-            ids_sp = tokenizer.encode(" " + char, add_special_tokens=False)
-            self.allowed_ids.update(ids_sp)
+            self.base_allowed_ids.update(tokenizer.encode(char, add_special_tokens=False))
+            self.base_allowed_ids.update(tokenizer.encode(" " + char, add_special_tokens=False))
+            
+        print(f"Vocab pre-calculation complete.")
 
-        print(
-            f"Strict Vocabulary: {len(self.allowed_ids)} valid token units allowed.")
+    def get_mask_for_excluded_word(self, excluded_word):
+        """Returns a set of allowed token IDs excluding a specific word."""
+        allowed = self.base_allowed_ids.copy()
+        excluded_lower = excluded_word.lower()
+        for word_lower, ids in self.all_allowed_ids.items():
+            if word_lower != excluded_lower:
+                allowed.update(ids)
+        return allowed
 
     def __call__(self, input_ids, scores):
+        # We assume active_allowed_ids is set on the instance before calling generate()
         mask = torch.full_like(scores, -float("inf"))
-        valid = [idx for idx in self.allowed_ids if idx < scores.shape[-1]]
+        valid = [idx for idx in self.active_allowed_ids if idx < scores.shape[-1]]
         mask[:, valid] = 0
         return scores + mask
 
@@ -82,28 +92,29 @@ def generate(prompt_text, processors):
     return tokenizer.decode(output[0], skip_special_tokens=True)
 
 
-# 4. Test multiple words
-test_words = ["satellite", "microscope", "electricity", "democracy"]
+if __name__ == "__main__":
+    # 4. Test multiple words
+    test_words = ["satellite", "microscope", "electricity", "democracy"]
 
-for target_word in test_words:
-    prompt = f"Define {target_word.upper()} in the style of UpGoer5 using only the most simple words: A {target_word} is "
-    print(f"\n" + "="*50)
-    print(f"STRICT DEFINITION FOR: '{target_word.upper()}'")
-    print("="*50)
+    for target_word in test_words:
+        prompt = f"Define {target_word.upper()} in the style of UpGoer5 using only the most simple words: A {target_word} is "
+        print(f"\n" + "="*50)
+        print(f"STRICT DEFINITION FOR: '{target_word.upper()}'")
+        print("="*50)
 
-    # Re-initialize processor without the target word
-    strict_allowed = [
-        w for w in ALLOWED_WORDS if target_word.lower() not in w.lower()]
-    processor = FinalLogitsProcessor(tokenizer, strict_allowed)
-    processors = LogitsProcessorList([processor])
+        # Re-initialize processor without the target word
+        strict_allowed = [
+            w for w in ALLOWED_WORDS if target_word.lower() not in w.lower()]
+        processor = FinalLogitsProcessor(tokenizer, strict_allowed)
+        processors = LogitsProcessorList([processor])
 
-    result = generate(prompt, processors)
-    print(f"\nRaw Result: {result}")
+        result = generate(prompt, processors)
+        print(f"\nRaw Result: {result}")
 
-    if " is " in result:
-        definition_part = result.split(" is ", 1)[1].strip()
-        from tokenizer import tokenize, untokenize
-        primitives = tokenize(definition_part)
-        print("\n--- PRIMITIVE ANALYSIS ---")
-        print(f"Primitives: {primitives}")
-        print(f"Cleaned:    {untokenize(primitives)}")
+        if " is " in result:
+            definition_part = result.split(" is ", 1)[1].strip()
+            from tokenizer import tokenize, untokenize
+            primitives = tokenize(definition_part)
+            print("\n--- PRIMITIVE ANALYSIS ---")
+            print(f"Primitives: {primitives}")
+            print(f"Cleaned:    {untokenize(primitives)}")
