@@ -1,0 +1,17 @@
+
+Sentence    ::= NounPhrase VerbPhrase [ "." ]
+NounPhrase  ::= [ Determiner ] [ Adjectives ] Noun [ Modifier ]
+              | Pronoun
+VerbPhrase  ::= Verb [ Modifier ] [ NounPhrase ] [ Adverb ]
+              | "BE" [ Modifier ] Adjective
+              | "BE" [ Modifier ] NounPhrase
+
+Adjectives  ::= Adjective | Adjective Adjectives
+Modifier    ::= "[PL]" | "[ER]" | "[ING]" | "[ED]" | "[LY]" | "[UN]" | "[CMP]" | "[SUP]"
+
+Determiner  ::= "THE" | "A" | "THIS" | "SOME"
+Pronoun     ::= "I" | "SHE" | "HE" | "WE" | "THEY"
+Noun        ::= { ... Core Nouns ... }
+Verb        ::= { ... Core Verbs ... }
+Adjective   ::= { ... Core Adjectives ... }
+Adverb      ::= { ... Core Adverbs ... }

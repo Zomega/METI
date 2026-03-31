@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.env
+.venv
+env/
+venv/
+
+# Data
+vocab.csv
+common_words.txt
+*.csv
+!globish.csv
+!ogdens_basic_english.csv
+!upgoer5.csv
+!voa_special_english.csv
+
+# Models & Cache
+.cache/
+huggingface/
+*.bin
+*.pt
+*.txt
+!common_words.txt
+
+# OS
+.DS_Store
+Thumbs.db
